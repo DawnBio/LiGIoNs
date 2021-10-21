@@ -1,0 +1,462 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+sp|Q24352|GBRAL_DROME               ------------------------------------------------------------
+sp|G5ECJ0|GBR1_CAEEL                ------------------------------------------------------------
+sp|P24046|GBRR1_HUMAN               ------------------------------------------------------------
+sp|Q9ES14|GBRE_RAT                  ------------------------------------------------------------
+sp|O00591|GBRP_HUMAN                ------------------------------------------------------------
+sp|Q9JLF1|GBRT_MOUSE                ------------------------------------------------------------
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      ------------------------------------------------------------
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      ------------------------------------------------------------
+tr|Q3USX9|Q3USX9_MOUSE              ------------------------------------------------------------
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      ------------------------------------------------------------
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      MCSKSGYPKMQNMQKGDIIDLSYVDILKIDGGDDKDEFVNKRERNSSARCDMFGRCDSSD
+tr|A0A343W7T8|A0A343W7T8_VARDE      ------------------------------------------------------------
+tr|W8BLX5|W8BLX5_CERCA              ------------------------------------------------------------
+tr|A0A343W7T9|A0A343W7T9_VARDE      ------------------------------------------------------------
+tr|E0SJQ4|E0SJQ4_DICD3              ------------------------------------------------------------
+tr|A0A343W7U0|A0A343W7U0_VARDE      ------------MTRGC----RLIRQMLLDDGDATTARS---AGGWDP------RSTLSA
+tr|A0A090XAM1|A0A090XAM1_IXORI      ------------------------------------------------------------
+tr|F1L254|F1L254_ASCSU              ------------------------------------------------------------
+                                                                                                
+
+sp|Q24352|GBRAL_DROME               ------------------------------------------------------------
+sp|G5ECJ0|GBR1_CAEEL                ------------------------------MSASILILATCH------------------
+sp|P24046|GBRR1_HUMAN               ---------MLAVP----------------------------------------------
+sp|Q9ES14|GBRE_RAT                  ------------------------------------------------------------
+sp|O00591|GBRP_HUMAN                ------------------------------------------------------------
+sp|Q9JLF1|GBRT_MOUSE                ------------------------------------------------------------
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      ------------------------------------------------------------
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      ------------------------------------------------------------
+tr|Q3USX9|Q3USX9_MOUSE              ------------------------------------------------------------
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      ------------------------------------------------------------
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      IKLKPKEIRLRRTFYNEFLSGDSWYQQYRSIDRNKNLENKCIRNAGKECVRKSENKRRTY
+tr|A0A343W7T8|A0A343W7T8_VARDE      ------------------------------------------------------------
+tr|W8BLX5|W8BLX5_CERCA              ------------------------------------------------------------
+tr|A0A343W7T9|A0A343W7T9_VARDE      ------------------------------------------------------------
+tr|E0SJQ4|E0SJQ4_DICD3              ------------------------------------------------------------
+tr|A0A343W7U0|A0A343W7U0_VARDE      LERSPARSLPIPLPTQQFANGYRNYSHYGDRNNSNSWITMCN------------------
+tr|A0A090XAM1|A0A090XAM1_IXORI      ------------------------------------------------------------
+tr|F1L254|F1L254_ASCSU              ------------------------------------------------------------
+                                                                                                
+
+sp|Q24352|GBRAL_DROME               -----------------------------------------------MCTMPATRDASGS
+sp|G5ECJ0|GBR1_CAEEL                ------------------------------------------------------------
+sp|P24046|GBRR1_HUMAN               ------------------------------------------------------------
+sp|Q9ES14|GBRE_RAT                  ------------------------------------------------------------
+sp|O00591|GBRP_HUMAN                ------------------------------------------------------------
+sp|Q9JLF1|GBRT_MOUSE                ------------------------------------------------------------
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      ------------------------------------------------------------
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      ------------------------------------------------------------
+tr|Q3USX9|Q3USX9_MOUSE              ------------------------------------------------------------
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      ------------------------------------------------------------
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      FDKMRNVSKIPLAHVYPTTFPTVFTKSQLIFVCLFVILSSIGRPPPNYVRLPPTRSDHRE
+tr|A0A343W7T8|A0A343W7T8_VARDE      ------------------------------------------------------------
+tr|W8BLX5|W8BLX5_CERCA              ------------------------------------------------------------
+tr|A0A343W7T9|A0A343W7T9_VARDE      ------------------------------------------------------------
+tr|E0SJQ4|E0SJQ4_DICD3              ------------------------------------------------------------
+tr|A0A343W7U0|A0A343W7U0_VARDE      ------------------------------------------------------------
+tr|A0A090XAM1|A0A090XAM1_IXORI      ------------------------------------------------------------
+tr|F1L254|F1L254_ASCSU              ------------------------------------------------------------
+                                                                                                
+
+sp|Q24352|GBRAL_DROME               GDASTDLIAARSLSSHQGQRS-------NLRIFKLLISCC-----------LLMLCIYPN
+sp|G5ECJ0|GBR1_CAEEL                -------QVLA-----------------DFNSYVVPQPHA-QRDHRQD-ISQHYD-YLME
+sp|P24046|GBRR1_HUMAN               ---------------NM-----------RFGIFLLW---------------WGW--VLAT
+sp|Q9ES14|GBRE_RAT                  -----------------------------------MLPKV-----------LLMLLNMFL
+sp|O00591|GBRP_HUMAN                ------------------------------------------------------------
+sp|Q9JLF1|GBRT_MOUSE                ------------------------------------------------------------
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      ---------------------------------------------------------MSS
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      ------------------------------------------------------------
+tr|Q3USX9|Q3USX9_MOUSE              ------------------------------------------------------------
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      ------------------------------------------------------------
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      I-ESNCLHAIRTTSSDRGSTYFQANCQENYVQPPNSHYCSENPTHEFDAHSVTSNDYYAN
+tr|A0A343W7T8|A0A343W7T8_VARDE      ------------------------------------------------------------
+tr|W8BLX5|W8BLX5_CERCA              -------------------------MKFSFVLLLLLVIRY-NLGAVISDI----------
+tr|A0A343W7T9|A0A343W7T9_VARDE      --------------------------------MRSSVLC------------LIIAIL-LN
+tr|E0SJQ4|E0SJQ4_DICD3              ------------------------------------------------------------
+tr|A0A343W7U0|A0A343W7U0_VARDE      -------HHLNKTADNM-------NIKYNYGKTLIEQQEC-SPLFTITARRSGEDQKVEG
+tr|A0A090XAM1|A0A090XAM1_IXORI      ------------------------------------------------------------
+tr|F1L254|F1L254_ASCSU              ------------------------------------------------------------
+                                                                                                
+
+sp|Q24352|GBRAL_DROME               --AWPWSIG--------------------------------------PGSGPFSVSAD--
+sp|G5ECJ0|GBR1_CAEEL                ENDEPLGRGAAPS--------KYRSS---HGQAQHRPEMTESE----NFAQPNTE-----
+sp|P24046|GBRR1_HUMAN               ESRMHWPGREVHEMSKKGRPQRQRREVHEDAHKQVSPILRRS------------------
+sp|Q9ES14|GBRE_RAT                  --ALQWRVG--------------------------------------PHIKLENKPPAQD
+sp|O00591|GBRP_HUMAN                ------------------------------------------------MNY-------SL
+sp|Q9JLF1|GBRT_MOUSE                -------------MGIRG---MLRAAAL---LLLIRTWLAES---NGPSPTPKFHFELSS
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      --PNIWSTG--------------------------------------SSVYSTPVFSQ--
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      ------------------------------------------------MDAPAR---LLA
+tr|Q3USX9|Q3USX9_MOUSE              --------M--------------------------------------VSVQKVPAIALCS
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      -------------MKVSV------IQVLHVFIALQYPFLRCSMAQNETSELPVRHVVRDS
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      ERTSPSNCG--------------------------------------TGITPKGLEATGT
+tr|A0A343W7T8|A0A343W7T8_VARDE      ------------------------------------------------------------
+tr|W8BLX5|W8BLX5_CERCA              ----------------------------------VSSWNK------------------SE
+tr|A0A343W7T9|A0A343W7T9_VARDE      ------SLV--------------------------------------NGS----------
+tr|E0SJQ4|E0SJQ4_DICD3              ------------------------------------------------------------
+tr|A0A343W7U0|A0A343W7U0_VARDE      AKTDHFGRGEGGEAKVEGRKDTKRAA---GGVSTTTAIIKRD---EALTSMLKR---TFV
+tr|A0A090XAM1|A0A090XAM1_IXORI      ------------------------------------------------------MSAHG-
+tr|F1L254|F1L254_ASCSU              ------------------------------------------------------------
+                                                                                                
+
+sp|Q24352|GBRAL_DROME               S--------------IKGRGDTHRLGEMGTSLSSSLPSSWLTQSNNHANISELLDN--LL
+sp|G5ECJ0|GBR1_CAEEL                -------SVFSS----GGVDSY-------------------------GETRDFLQ-FLRR
+sp|P24046|GBRR1_HUMAN               ------------------PDITKS----------------PL-----TKSEQ----LLRI
+sp|Q9ES14|GBRE_RAT                  K----------VVFGPQPQPSGKKLPARETELTA--DHTTERPRGKLTRASQILNT--IL
+sp|O00591|GBRP_HUMAN                HLAFVCLSLFTERMCIQGSQFNVE----------------VG-RSD-KLSLPGF--ENLT
+sp|Q9JLF1|GBRT_MOUSE                STPEVILDLFNCKNCAN----------------------------E-AVVQKIL--DRVL
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      KMTVWILLLLSLYPGFTSQKSDDDYEDYASNKTW-----VLTPKVPEGDVTVILNN--LL
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      PLLLLCAQQLRGTRAMN--DIGDY----------------VGSNLE-ISWLPNL--DGLI
+tr|Q3USX9|Q3USX9_MOUSE              GVSLALLHFLCLAACLNESPGQN----------------SKDEKLCPENFTRILDS--LL
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      GNMRFWNQFFPGS--MIGPQSQGL----------------AMDGHGNDITRQIEK-MFRD
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      PASFFSAIFSGLAPSIGG---GAL---FGGFLLADAYSSTYNAKDFSRNVTQLLDS--LL
+tr|A0A343W7T8|A0A343W7T8_VARDE      ----MIAT---VRQTER----------------------------G-QNITHILN-SFFT
+tr|W8BLX5|W8BLX5_CERCA              TYPKICTPF-NTTTAQTSSTSCPT----------------LASTDSLKQTQLISR-LTAP
+tr|A0A343W7T9|A0A343W7T9_VARDE      -------------------K----YSRTRSPLTK-SFRPFVRTSDISRNVSLLLEG--LL
+tr|E0SJQ4|E0SJQ4_DICD3              --------------------------------------------------MRIL---WSC
+tr|A0A343W7U0|A0A343W7U0_VARDE      PFSIMCLVLLSQLGHA--SQINRR----------------PE-Q-L-ENITDIL--KNIL
+tr|A0A090XAM1|A0A090XAM1_IXORI      -VPWTLLLFLAVVGEVA-------ITRYGVDALI-------------EAQDIVFTNLTDT
+tr|F1L254|F1L254_ASCSU              ------------------------------------------------------------
+                                                                                                
+
+sp|Q24352|GBRAL_DROME               RGYDNS--IRP--------DFGGP--------------------------PATIEVDIMV
+sp|G5ECJ0|GBR1_CAEEL                IQYDHR-QVPE--------NEKGEA--------------------------TYVEVSVVV
+sp|P24046|GBRR1_HUMAN               DDHDFS--MRP--------GFGGPA--------------------------IPVGVDVQV
+sp|Q9ES14|GBRE_RAT                  SNYDHK--LRP--------SIGEKP--------------------------TVVTVKVFV
+sp|O00591|GBRP_HUMAN                AGYNKF--LRP--------NFGGEP--------------------------VQIALTLDI
+sp|Q9JLF1|GBRT_MOUSE                STYDVR--LRP--------NFGGAP--------------------------VPVSVSIYV
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      EGYDNK--LRP--------DIGVKP--------------------------TLIHTDMYV
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      AGYARN--FRP--------GIGGPP--------------------------VNVALALEV
+tr|Q3USX9|Q3USX9_MOUSE              DGYDNR--LRP--------GFGGTDCFKTCKCALSVRLWSACLFVEILGPVTEVKTDIYV
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      HSYELS--IRP--------RNKGLP--------------------------IKVGLALMI
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      DDYDKR--FRP--------GHGGPP--------------------------TKIIVNMNV
+tr|A0A343W7T8|A0A343W7T8_VARDE      KGYDKR--VRP--------NYGGPP--------------------------VKVGVSMQI
+tr|W8BLX5|W8BLX5_CERCA              CRYDRF---EPPFPVYENNCSANQP--------------------------LDIYLRIYV
+tr|A0A343W7T9|A0A343W7T9_VARDE      GGYDKR--NRP--------KGSGPGGKG----------------------PTIVGADILI
+tr|E0SJQ4|E0SJQ4_DICD3              CGLVLLLLGLPAWSAPADNAADARP--------------------------VDVSVSIFI
+tr|A0A343W7U0|A0A343W7U0_VARDE      NGYDIR--LRP--------NFGGKP--------------------------LHIGMDLLI
+tr|A0A090XAM1|A0A090XAM1_IXORI      SVYNKR--VRP--------AYSTNL-------------------------PVVVNTSIVL
+tr|F1L254|F1L254_ASCSU              ------------------------------------------------------------
+                                                                                                
+
+sp|Q24352|GBRAL_DROME               RSMGPISEVDMTYSMDCYFRQSWVDKRLAFEGAQ-------DTLALSVSMLARIWKPDTY
+sp|G5ECJ0|GBR1_CAEEL                SNIRAVSEVTMDYALELFYRESWRDPRLQYDRKLFK---NKTELALHESYTNFLWFPDTF
+sp|P24046|GBRR1_HUMAN               ESLDSISEVDMDFTMTLYLRHYWKDERLSFPSTNN------LSMTFDGRLVKKIWVPDMF
+sp|Q9ES14|GBRE_RAT                  NSLGPISILDMEYSIDIIFYQTWYDERLRYNDTF-------ETLILHGNVVSQLWIPDTF
+sp|O00591|GBRP_HUMAN                ASISSISESNMDYTATIYLRQRWMDQRLVFEG-N-------KSFTLDARLVEFLWVPDTY
+sp|Q9JLF1|GBRT_MOUSE                SSIEQISEINMDYTITMFLHQTWKDTRLAYYETN-------LNLTLDYRMHEKLWVPDCY
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      NSIGPVNAINMEYTIDIFFAQTWYDRRLKFNSTI-------KVLRLNSNMVGKIWIPDTF
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      ASIDHISEANMEYTMTVFLHQSWRDSRLSYNHTN-------ETLGLDSRFVDKLWLPDTF
+tr|Q3USX9|Q3USX9_MOUSE              TSFGPVSDVEMEYTMDVFFRQTWIDKRLKYDGPI-------EILRLNNMMVTKVWTPDTF
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      ESITDISEKNMDLTFTLRMHETWTDTRLRFRSRL-----GMKSIVLPSRLISKLWVPDLY
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      RSMGPFSEKKEEYAMQLYMRQFWYDSRLRFNKTDLG----RSEFSMNWVLAQRIWKPDTF
+tr|A0A343W7T8|A0A343W7T8_VARDE      VSISAVSEVQMDFTSDFYFRQSWRDERLSFPETNE-----LSQMTVGAEVAGKIWVPDTF
+tr|W8BLX5|W8BLX5_CERCA              YDLRITNAADVELKIFGFLQLRYTDFRLAFGVYAPK---RSQPILGDAQLRERIWVPHIL
+tr|A0A343W7T9|A0A343W7T9_VARDE      RSMGPISELDMEYSMDCYFRQKWKDERLKFNRFATQSKQDVANISLSIKMLDKIWKPDTY
+tr|E0SJQ4|E0SJQ4_DICD3              NKIYGVNTLEQTYKVDGYIVAQWTGKPRKTPGDKPL---IVENTQIERWINNGLWVPALE
+tr|A0A343W7U0|A0A343W7U0_VARDE      ASFDSISEVNMDYTITLYLNQYWVDERLAFSSGEG----GSQELTLSGDFAEKIWVPDTF
+tr|A0A090XAM1|A0A090XAM1_IXORI      YSMTSTNDLHTEYTAQMRLRQTWFDQRLQYDAAFLHPEAK---IQGDHWHAERIWLPSVQ
+tr|F1L254|F1L254_ASCSU              --------------MRITLRQKWVEVKLAYEKERA------SHAPIKLRSSAYIWNPNLI
+                                                          :                              :* *   
+
+sp|Q24352|GBRAL_DROME               FYNGKQSYL--HTITTPNKFVRIYQNGRVLYSSRLTIKAGCPMNLADFPMDIQKCPLKFG
+sp|G5ECJ0|GBR1_CAEEL                VPNAIASKNPQRNSISHRSLLRLDETGKLLYSRRISLVCECTMDLTLFPFDKQLCKLGIE
+sp|P24046|GBRR1_HUMAN               FVHSKRSFI--HDTTTDNVMLRVQPDGKVLYSLRVTVTAMCNMDFSRFPLDTQTCSLEIE
+sp|Q9ES14|GBRE_RAT                  FRNSKRTQE--YDITIPNQMALIHKDGKVLYTVRMTIDARCSLHMLNFPMDSHSCPLSFS
+sp|O00591|GBRP_HUMAN                IVESKKSFL--HEVTVGNRLIRLFSNGTVLYALRITTTVACNMDLSKYPMDTQTCKLQLE
+sp|Q9JLF1|GBRT_MOUSE                FVNSKDAFV--HDVTVENRVFQLHPDGTVRYGIRLTTTAACSLDLQKFPMDKQSCKLEVE
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      FRNSKKADA--HWITTPNRMLRIWNDGRVLYTLRLTIDAECQLQLHNFPMDEHSCPLEFS
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      IVNAKSAWF--HDVTVENKLIRLQPDGVILYSIRITSTVACDMDLAKYPMDEQECMLDLE
+tr|Q3USX9|Q3USX9_MOUSE              FRNGKKSVS--HNMTAPNKLFRIMRNGTILYTMRLTISAECPMRLVDFPMDGHACPLKFG
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      IIGSKSSFV--HKTTVDNLVMRLFSNGQIFYSVKITTTVACQMSLYNFPLDTESCSLMFQ
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      FINGKKSYA--HSITAPNLFVRMQYDGQIYMSMRLTVRASCVMHLRRFPLDTQICPLRLS
+tr|A0A343W7T8|A0A343W7T8_VARDE      FANEKTAYF--HIATTPNTFLRIGSDGDVYRSIRLTVTASCPMDLRYFPMDRQSCTIEIE
+tr|W8BLX5|W8BLX5_CERCA              FVNEQDSAI--LGTGGKDISIRIMPDGMLTISTRIQVTLSCAIGLSKFPFDDQQCTAVIE
+tr|A0A343W7T9|A0A343W7T9_VARDE      FLNGKGSYL--HTITQPNKLLRISHNGDVLYSMRLTIKAKCPMKLESFPMDRQSCPLWFG
+tr|E0SJQ4|E0SJQ4_DICD3              FINVVGS------PDTGNKRLMLFPDGRVIYNARFLGSFSNDMDFRLFPFDRQQFVLELE
+tr|A0A343W7U0|A0A343W7U0_VARDE      FANDKNSFL--HDVTEKNKMVRLKSDGHITYGMRFTTTLACMMDLHYYPLDAQNCTVEIE
+tr|A0A090XAM1|A0A090XAM1_IXORI      VTNMRNFDS-ETGITPASVLIVILADGQVHVNRRLHLKLKCEMEFHKYPLDKQKCSLKIE
+tr|F1L254|F1L254_ASCSU              ISNALET------TSVGRDDVRIFNSGLVEYVQRLAVTTFENHDLHSFPFERRNCTIEFA
+                                    .                     :   * :    :.         :  :*:: .     . 
+
+sp|Q24352|GBRAL_DROME               SFG----------------------------------------YTTSDVIYR--------
+sp|G5ECJ0|GBR1_CAEEL                SYG----------------------------------------YTADHVVYK--------
+sp|P24046|GBRR1_HUMAN               SYA----------------------------------------YTEDDLMLY--------
+sp|Q9ES14|GBRE_RAT                  SFS----------------------------------------YDEHEMIYK--------
+sp|O00591|GBRP_HUMAN                SWG----------------------------------------YDGNDVEFT--------
+sp|Q9JLF1|GBRT_MOUSE                SYG----------------------------------------YTVEDIVLS--------
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      SWSRSIAQAGMCSGVISAHYSLRFWGSTDPPTLASRVAGISDGYPREEIVYQ--------
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      SYG----------------------------------------YSSEDIVYY--------
+tr|Q3USX9|Q3USX9_MOUSE              SYA----------------------------------------YPKSEMIYT--------
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      SMG----------------------------------------HSKDELILE--------
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      SYG----------------------------------------YSAKDIIYK--------
+tr|A0A343W7T8|A0A343W7T8_VARDE      SFG----------------------------------------YTMSDIRYS--------
+tr|W8BLX5|W8BLX5_CERCA              SWL----------------------------------------YNSSEIMLH--------
+tr|A0A343W7T9|A0A343W7T9_VARDE      SYA----------------------------------------YPEEQIRFE--------
+tr|E0SJQ4|E0SJQ4_DICD3              PFS----------------------------------------YNNQQLRFSDIQVYTEN
+tr|A0A343W7U0|A0A343W7U0_VARDE      SYG----------------------------------------YTVDEVVMY--------
+tr|A0A090XAM1|A0A090XAM1_IXORI      SSM----------------------------------------LSTKNMLLQ--------
+tr|F1L254|F1L254_ASCSU              N---------------------------------------------EDSRAQ--------
+                                                                                   .            
+
+sp|Q24352|GBRAL_DROME               ---------WNKERPPVA--IAE----DMKLSQFDLVDCPAGNLTDIVYKAAAPRPQRRP
+sp|G5ECJ0|GBR1_CAEEL                ---------WSKGARTAL--ELK----KIRLPDFTIQEAYV-------------------
+sp|P24046|GBRR1_HUMAN               ---------WKKGNDSLK--TDE----RISLSQFLIQEFHTT------------------
+sp|Q9ES14|GBRE_RAT                  ---------WENFKLKID--AKN----TWKLLEFDFTGVNNK--TEI-------------
+sp|O00591|GBRP_HUMAN                ---------WLRGNDSVR--GLE----HLRLAQYTIERYFT-------------------
+sp|Q9JLF1|GBRT_MOUSE                ---------WEDDNAI-H--ITD----GLHIPQYTYLGRTI-------------------
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      ---------WKRSSVEVG--DTR----SWRLYQFSFVGLRNT--TEV-------------
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      ---------WSESQEHIH--GLD----KLQLAQFTITSYRFT------------------
+tr|Q3USX9|Q3USX9_MOUSE              ---------WTKGPEKSVEVPKE----SSSLVQYDLIGQTVS--SET-------------
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      ---------WSVGKGMED--LFMDTRLVTNMPKFRLVHHTFHSQ---NVS----------
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      ---------WDQKKFVTV---DS----DVSIAQYELSSIVTSEAQ---------------
+tr|A0A343W7T8|A0A343W7T8_VARDE      ---------WRDGEKSVG--ISE----EVQLPQFKIQGHVQ-------------------
+tr|W8BLX5|W8BLX5_CERCA              ---------WEHDAPVTF--E-Q----NLHLSQYSLENTWSNETVAHARK----------
+tr|A0A343W7T9|A0A343W7T9_VARDE      ---------WINV----E--FVK----GMVLSQYDLIEIPKNNVSHRV------------
+tr|E0SJQ4|E0SJQ4_DICD3              IDNEEIDEWWIRGKASTH--ISD----------IR-------------YD----------
+tr|A0A343W7U0|A0A343W7U0_VARDE      ---------WKQPTPVRG--V-G----SSELPQFSIVRHET-------------------
+tr|A0A090XAM1|A0A090XAM1_IXORI      ---------WEKEQPLQF---SN----TFDIKGFQMVDFNCSSGV---------------
+tr|F1L254|F1L254_ASCSU              ---------WTRITSIMA--PKT------GWGAWTMVDW---------------------
+                                             *                                                  
+
+sp|Q24352|GBRAL_DROME               FNNKDPPRPTSKVMTTFAGPAAKNQHVRGTGLKLDKGAFGTGRDATGGSGSTTGLSGTIT
+sp|G5ECJ0|GBR1_CAEEL                ---------------------------------------------------------TSQ
+sp|P24046|GBRR1_HUMAN               ---------------------------------------------------------TKL
+sp|Q9ES14|GBRE_RAT                  ------------------------------------------------------------
+sp|O00591|GBRP_HUMAN                ---------------------------------------------------------LVT
+sp|Q9JLF1|GBRT_MOUSE                ---------------------------------------------------------TSK
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      ------------------------------------------------------------
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      ---------------------------------------------------------TEL
+tr|Q3USX9|Q3USX9_MOUSE              ------------------------------------------------------------
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      ---------------------------------------------------------MTG
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      ------------------------------------------------------------
+tr|A0A343W7T8|A0A343W7T8_VARDE      ---------------------------------------------------------KAS
+tr|W8BLX5|W8BLX5_CERCA              ---------------------------------------------------------GEL
+tr|A0A343W7T9|A0A343W7T9_VARDE      ------------------------------------------------------------
+tr|E0SJQ4|E0SJQ4_DICD3              ---------------------------------------------------------HLS
+tr|A0A343W7U0|A0A343W7U0_VARDE      ---------------------------------------------------------TDR
+tr|A0A090XAM1|A0A090XAM1_IXORI      ------------------------------------------------------------
+tr|F1L254|F1L254_ASCSU              ------------------------------------------------------------
+                                                                                                
+
+sp|Q24352|GBRAL_DROME               LETNHPSEYSMLMVNFHLQRHMGNFLIQVYGPCCLLVVLSWVSFWLNREATADRVSLGIT
+sp|G5ECJ0|GBR1_CAEEL                MESYATGNYSRLYVCFVFSRSSGFCFLQLIIPSTAVVITSWVSLWMETETEFQ---DMIS
+sp|P24046|GBRR1_HUMAN               AFYSSTGWYNRLYINFTLRRHIFFFLLQTYFPATLMVMLSWVSFWIDRRAVPARVPLGIT
+sp|Q9ES14|GBRE_RAT                  -ISTPVGDFMVMTFFFNVSRRFGFIVFQNYIPSSVTTMLSWVSFWIKIEAAAARASVGVS
+sp|O00591|GBRP_HUMAN                RSQQETGNYTRLVLQFELRRNVLYFILETYVPSTFLVVLSWVSFWISLDSVPARTCIGVT
+sp|Q9JLF1|GBRT_MOUSE                EVYFYTGSYMRLIVKFQVQREVRSYLVQVYWPTVLTTILSWISFWMNYDSSAARVTIGLT
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      -VKTTSGDYVVMSVYFDLSRRMGYFTIQTYIPCTLIVVLSWVSFWINKDAVPARTSLGIT
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      MNFKSAGQFPRLSLHFHLRRNRGVYIIQSYMPSVLLVAMSWVSFWISQAAVPARVSLGIT
+tr|Q3USX9|Q3USX9_MOUSE              -IKSITGEYIVMTVYFHLRRKMGYFMIQTYIPCIMTVILSQVSFWINKESVPARTVFGIT
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      IAQYAAGEKSQLQVSFELKRYLLSVFFQSYFPAMIMVVLAGLGMWIDPRSVPARVSMGVT
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      LTVRRTEEISTLTVKFSLIRLTGFFILQVYVPCILIVFSSWVGFWITKKDAPGRVCLGVN
+tr|A0A343W7T8|A0A343W7T8_VARDE      EISLSTGNYSRLICEIRFVRSMGYYLIQIYVPAGLIVVISWVSFWLHRNATPARVALGVM
+tr|W8BLX5|W8BLX5_CERCA              RYALLGGNYSSISFTAYLNRKSLFYTMDYFLPSIMLVCMSWVSFWLQADQTPARTTLGTS
+tr|A0A343W7T9|A0A343W7T9_VARDE      ----NSDMHSMLVVYFNLHRHMGYFLIQVYVPCILLVVLSWVSFWINREATADRVGLGIT
+tr|E0SJQ4|E0SJQ4_DICD3              SVQPNQNEFSRITVRIDAVRNPSYYLWSFILPLGLIIAASWSVFWLESFSERL--QTSFT
+tr|A0A343W7U0|A0A343W7U0_VARDE      KESLATGTYQRLSLSFELKRNIGYFIFQTYLPSILIVMLSWVSFWINHEATSARVALGIT
+tr|A0A090XAM1|A0A090XAM1_IXORI      EDYDHTGNFSMIMCEFNLKRDFGPFLLEIYIPGITFVITSWFSLWIDIPAAPARVTLAMT
+tr|F1L254|F1L254_ASCSU              -------HRKGKSVTLELKRSANIWMWTLYLPTMLLLLCSWVSLWMNTKSQISRTILNST
+                                                       *           *       :   :*:              
+
+sp|Q24352|GBRAL_DROME               TVLTMTFLGLEARTDLPKVS-YPTALDFFVFLSFGFIFATILQFAVVHYYTKYGSGECYF
+sp|G5ECJ0|GBR1_CAEEL                IILAITFLIFSYNEMMPRVS-YIKAMDIYLGVCFMIVFLSLIKLALVKYMRQKIMLTSDS
+sp|P24046|GBRR1_HUMAN               TVLTMSTIITGVNASMPRVS-YIKAVDIYLWVSFVFVFLSVLEYAAVNYLTTVQERKEQK
+sp|Q9ES14|GBRE_RAT                  SVLTMATLGTFSRKNFPRVS-YLTALDFYIAICFVLCFCTLLEFTVLNFLTYNNIERQAS
+sp|O00591|GBRP_HUMAN                TVLSMTTLMIGSRTSLPNTNCFIKAIDVYLGICFSFVFGALLEYAVAHYSSLQQMAAKDR
+sp|Q9JLF1|GBRT_MOUSE                SILVLTTIDSHMRDKLPHIS-CIKAIDIYILVCLFFVFLSLLEYVYINYLFFSQVPRRNH
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      TVLTMTTLSTIARKSLPKVS-YVTAMDLFVSVCFIFVFSALVEYGTLHYFVSNRKPSKDK
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      TVLTMTTLMVSARSSLPRAS-AIKALDVYFWICYVFVFAALVEYAFAHFNADYRKKQKAK
+tr|Q3USX9|Q3USX9_MOUSE              TVLTMTTLSISARHSLPKVS-YATAMDWFIAVCFAFVFSALIEFAAVNYFTNIQMQKAKK
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      SVLTISTIITGLKSSLPKVS-YLTAMDIYLWVCFLFVFSTVLEFCVLNFFMTKQQKRSID
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      NVLCMTKLGFGGRDIFPLVS-YPTALDYFVLLCFWFTFATIIEYAAINYLERYAITTVKR
+tr|A0A343W7T8|A0A343W7T8_VARDE      TVLTMTTLMSSTNSQLPKIS-YVKSIDVYLGTCFVMVFASLLEYAAVGYLGKRVAMRKSR
+tr|W8BLX5|W8BLX5_CERCA              TMLSLFTLTSYYEKQFGRKS-HVQFFEIWFFSCTFFIFGSLMEFAFVNTIWRRSGCLSLK
+tr|A0A343W7T9|A0A343W7T9_VARDE      TVLTLSTFGSDTRTDLPKVA-YPTALDWFVIMCFAFVMLTLLEYAGVHYFTKVGSGEYFP
+tr|E0SJQ4|E0SJQ4_DICD3              LMLTVVAYAFYTSNILPRLP-YTTVIDQMIIAGYGSIFAAILLIIFAHHRQAN-------
+tr|A0A343W7U0|A0A343W7U0_VARDE      TVLTMTTISTGVRSSLPRIS-YVKAIDIYLVMCFVFVFAALLEYAAVNYTYWGARAKKKP
+tr|A0A090XAM1|A0A090XAM1_IXORI      TFLTLVTGGKSIREKLPKVP-YVHALDVWYLACTAFVFFILLEYAMVNYIYHKDNRRRQG
+tr|F1L254|F1L254_ASCSU              AFLTILIIVICNCWGVPRTP-YLKAIDVWNLMISTFAFLVILHSAIVTSSALKEREPKTR
+                                     .* :          .         .:          :  ::                  
+
+sp|Q24352|GBRAL_DROME               II------E---ELDSE--SGESETE-PL-------------------------------
+sp|G5ECJ0|GBR1_CAEEL                GNSLREMSQMSTRQRLRA---------------------RKTSNMNFR---NNGGGSIPI
+sp|P24046|GBRR1_HUMAN               -------------LREKL---------------------------------PCTSGLPP-
+sp|Q9ES14|GBRE_RAT                  PKFYQFPTN---S-----RAN---------------ART------RARAR---TR-----
+sp|O00591|GBRP_HUMAN                GTTK--E------VEEVS---------------------------------IT-------
+sp|Q9JLF1|GBRT_MOUSE                RRCRK-P------RRVVARYRYQEVVVANVQDG----------LINVEDRVEDRAGPLPD
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      DKKKKNPAP---TIDIRPR----------------SATI------QMNNA---T------
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      VKVS-RP------RAEVR---------------------------------AW-------
+tr|Q3USX9|Q3USX9_MOUSE              KI--SKPPP---EVPAAPVLKEKHTETSL---QNTHANL------NMRKR---TN-----
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      NMGTSETENEHQRTR-TS------------------------------------------
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      LKERREKLKQE-KAHLAK-LAREGAGCINVTTKSIHTSILESFRLHIVAAPYVVN-----
+tr|A0A343W7T8|A0A343W7T8_VARDE      AQQLARFQDRKRQQRVLRQLGPSVDEMSPENDP----LLTKNYNFNFTAQAPWGGGATAP
+tr|W8BLX5|W8BLX5_CERCA              KVNSKYI--------LKSTLTPKV---------------TKR------------------
+tr|A0A343W7T9|A0A343W7T9_VARDE      GQ------E---GIEDD--SEQEFERCDM---EDDDDD-----------D----------
+tr|E0SJQ4|E0SJQ4_DICD3              GV---EDDLLIQRCRLAFPLGFL----------------AIGCVLVIRGITL--------
+tr|A0A343W7U0|A0A343W7U0_VARDE      KRQKSKT------LDEKS---------------------------------PS--PPPP-
+tr|A0A090XAM1|A0A090XAM1_IXORI      GIRR---------IDSQASMGSSANS--L---KNSS-S-----YLNILAA----------
+tr|F1L254|F1L254_ASCSU              TTYGDEFDEKTRWLSETP----YYAQLPEEQPK----TVAKICDYVFRILFPMS------
+                                                                                                
+
+sp|Q24352|GBRAL_DROME               ---------------TSD------FRGS----------------------TESKIYEVIP
+sp|G5ECJ0|GBR1_CAEEL                NEE-----HQ--------------------QMLTVPNGEDKMANGDDKEANNNGKSHLSD
+sp|P24046|GBRR1_HUMAN               -PRTAMLDGNYS--------------------------------------DGE-------
+sp|Q9ES14|GBRE_RAT                  --------A--RA----R------ARARQQQEVFVCEIVT--YEE-----NAEEGYQWSP
+sp|O00591|GBRP_HUMAN                ---------NII--------------------------------------NSS-------
+sp|Q9JLF1|GBRT_MOUSE                SPMQAHLASQESLGSLVFTSEQAQLA------------------------TSESLSLLSS
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      ---------------------------------------H--LQE-----RDE-------
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      --------GRAR--------------------------------------DST-------
+tr|Q3USX9|Q3USX9_MOUSE              --------A--LVHSESD------VKSRTEVGNHSSKTSA--VQE-----SSE----ATP
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      -DMRRMLDAKMMD--------ENCLN------------------------HSNNYQHHKI
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      --------AAYTSKPNSN------QKGKLFQALKLPLTVVPKVADEAKGVDSGKVCLALP
+tr|A0A343W7T8|A0A343W7T8_VARDE      TPSYRPSTHQTREHSSAHQRDRTHLDGRKTSHMSLSGGGHLNPNGRERDAVSGGLKLHHT
+tr|W8BLX5|W8BLX5_CERCA              ----KFYDCE-TDGRINFY-------------------------------NRN-------
+tr|A0A343W7T9|A0A343W7T9_VARDE      --------------PQYL------KRGH----------------------SDVERYVWTE
+tr|E0SJQ4|E0SJQ4_DICD3              ------------------------------------------------------------
+tr|A0A343W7U0|A0A343W7U0_VARDE      -PLNVPNDAVYP--------------------------------------NNEEIIELH-
+tr|A0A090XAM1|A0A090XAM1_IXORI      ----------------------------LEQG-----------------QT------STP
+tr|F1L254|F1L254_ASCSU              ----------FLAASVAY-------------------------------------FLHFL
+                                                                                                
+
+sp|Q24352|GBRAL_DROME               LSMCAI--------S-MPPPPTRLGMLTSRNR----------------------------
+sp|G5ECJ0|GBR1_CAEEL                MLEIRITQRTMH------------------------------------------------
+sp|P24046|GBRR1_HUMAN               ------------------------------------------------------------
+sp|Q9ES14|GBRE_RAT                  RSRRP----------QC-------------------------------------------
+sp|O00591|GBRP_HUMAN                ------------------------------------------------------------
+sp|Q9JLF1|GBRT_MOUSE                A-----------------SSQTQLAT-G------------------------ESLSDLPS
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      ------------------------------------------------------------
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      ------------------------------------------------------------
+tr|Q3USX9|Q3USX9_MOUSE              KAHLAS--------SPN-------------------------------------------
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      SEDIAIIYRSLPY-----------------------------------------------
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      GEEISV--------SEVFPETESVSSLSPKPYTPRLLQRLAVLRRTSSPSIHEEETQPPS
+tr|A0A343W7T8|A0A343W7T8_VARDE      EDEIEKQIRSEHYSSSNPGGGTQLAGTGSAN----LNMKLNSVT------PRGPTSSLPT
+tr|W8BLX5|W8BLX5_CERCA              ------------------------------------------------------TCNLPS
+tr|A0A343W7T9|A0A343W7T9_VARDE      VNACNQ--------VSCYPQNTDFGTGNAGM-----------------------------
+tr|E0SJQ4|E0SJQ4_DICD3              ------------------------------------------------------------
+tr|A0A343W7U0|A0A343W7U0_VARDE      ---------------------------D------------------------VRMSPIPC
+tr|A0A090XAM1|A0A090XAM1_IXORI      SSPTHK--------SQCTVQIS--------------------------------------
+tr|F1L254|F1L254_ASCSU              Q----------PYLK---------------------------------------------
+                                                                                                
+
+sp|Q24352|GBRAL_DROME               -RPRNRRHGLWSMKLLGLF-DWRRR--------RKPPRA----DSDE--DEDDEQTQL--
+sp|G5ECJ0|GBR1_CAEEL                ------------------------------------------------------------
+sp|P24046|GBRR1_HUMAN               ------------VNDLD-------------------------------------------
+sp|Q9ES14|GBRE_RAT                  --------------------PWRR------------------------------------
+sp|O00591|GBRP_HUMAN                --------------ISSFKRKISFA-----------SI----------------------
+sp|Q9JLF1|GBRT_MOUSE                TSEQTVPEC--TIHFHGFLTNDSII-----------PIK----IHSRSDACDDEDSEESL
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      --------------------EYGY------------------------------------
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      --------------AGGPNQDPSAA-----------PA----------------------
+tr|Q3USX9|Q3USX9_MOUSE              --------------------PFSRA--------NA-------------------------
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      ------------------------------------------------------------
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      TSPQPSPHS----SLKSLFYPTRPLPSPSQQLPGQPPVSSPSVTSSQASPSQELTTVI--
+tr|A0A343W7T8|A0A343W7T8_VARDE      GGATISYYN--TINSKHLLGER--Q-----------PQS----NHNNS-------SNLNI
+tr|W8BLX5|W8BLX5_CERCA              NKV---------------------------------------------------------
+tr|A0A343W7T9|A0A343W7T9_VARDE      --------------------RYRAC--------SAP-FV----QTSR--GSIRIQNVI--
+tr|E0SJQ4|E0SJQ4_DICD3              ------------------------------------------------------------
+tr|A0A343W7U0|A0A343W7U0_VARDE      IRNRRRSYG--NISEGDGKYPPSFR-----------IT----------------------
+tr|A0A090XAM1|A0A090XAM1_IXORI      --------------------KYKK--------------------------NNKLTPVFKI
+tr|F1L254|F1L254_ASCSU              ------------------------------------------------------------
+                                                                                                
+
+sp|Q24352|GBRAL_DROME               RANEAPTTSA--------A---------------------------A-------------
+sp|G5ECJ0|GBR1_CAEEL                --------------------------RFH-------------------------------
+sp|P24046|GBRR1_HUMAN               -----------------------------------------------------NYM----
+sp|Q9ES14|GBRE_RAT                  ------------------C-----------------------------------------
+sp|O00591|GBRP_HUMAN                ------EISSDNVDYSDLTMKT-------------------------S----DKFK----
+sp|Q9JLF1|GBRT_MOUSE                SSEESHGHGSSHTGRLKLQISQRCVQEASWDLDKIEILQDDIS---IT----SSWLGLD-
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      -----ECL----------------------------------------------------
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      ------HCGSQ---LCSLSV--------------------------------GGW-----
+tr|Q3USX9|Q3USX9_MOUSE              ----AETMSA--------A-----------------------------------------
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      -----------------------------------------------S----QRYNGVNK
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      SEQETPQMSP--------R---------------------------ISPMT-------TT
+tr|A0A343W7T8|A0A343W7T8_VARDE      MS-NANLINSNYNMTNNVNMFNMNMLDNHYNLNVNNYLNQQMNSLNLSNLANGGQSGGGS
+tr|W8BLX5|W8BLX5_CERCA              ---EINVIG------------------------------------------------TDS
+tr|A0A343W7T9|A0A343W7T9_VARDE      GGT-GSLHPL--------R---------------------------S-------------
+tr|E0SJQ4|E0SJQ4_DICD3              ------------------------------------------------------------
+tr|A0A343W7U0|A0A343W7U0_VARDE      ------HRGNSYNSRATVGYAT-------------------------R----RRFR----
+tr|A0A090XAM1|A0A090XAM1_IXORI      SDLEAHT-----------------------------------------------------
+tr|F1L254|F1L254_ASCSU              ------------------------------------------------------------
+                                                                                                
+
+sp|Q24352|GBRAL_DROME               -A--AAQAAAQA---------------ARIS-PPTGGRRR------------------MS
+sp|G5ECJ0|GBR1_CAEEL                ------------------------------------------------------------
+sp|P24046|GBRR1_HUMAN               -----------------PENG-------------------------------------EK
+sp|Q9ES14|GBRE_RAT                  -----GRSYVCF---------------RV----------L------------------RK
+sp|O00591|GBRP_HUMAN                -----------------FVFR-------------------------------------EK
+sp|Q9JLF1|GBRT_MOUSE                ----------EQCKGDADSIW-------------------------------------SL
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      ------DGKDCA-----------------------------------------------S
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      ------------------SCW-------------------------------------SR
+tr|Q3USX9|Q3USX9_MOUSE              -----ARGLSSA---------------AS-----------------------------PS
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      RP--KETAQKKSSTGTSPSPWK--------------------------------------
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      PT--TGPPLLTITTTPPPETQDTSPVTSLTSPPETDGDQT------------------KS
+tr|A0A343W7T8|A0A343W7T8_VARDE      GGGGGGHNIAGNNIGPPPSHYATMPLPT----HHREGRSRLTTIDHLNNSIINPLAMDEM
+tr|W8BLX5|W8BLX5_CERCA              PD-----ANNQSKVSQDDDSWS--------------------------------------
+tr|A0A343W7T9|A0A343W7T9_VARDE      -G--TQQPIPAM---------------QYIPPPPRPARRR------------------VN
+tr|E0SJQ4|E0SJQ4_DICD3              ------------------------------------------------------------
+tr|A0A343W7U0|A0A343W7U0_VARDE      -----------------SEYG-------------------------------------ER
+tr|A0A090XAM1|A0A090XAM1_IXORI      --------LSDL-----------------PDSPPRSPISL------------------RS
+tr|F1L254|F1L254_ASCSU              ------------------------------------------------------------
+                                                                                                
+
+sp|Q24352|GBRAL_DROME               YY----------R---------RE-E--------------------------MEARRKG-
+sp|G5ECJ0|GBR1_CAEEL                ------------------------------------------------------------
+sp|P24046|GBRR1_HUMAN               PDRMMVQLTLASERSSPQRKSQRS----------------------------S-------
+sp|Q9ES14|GBRE_RAT                  YFCMVPGCE--------GNNWQRG-R----------------------------------
+sp|O00591|GBRP_HUMAN                MGRIVDYFTIQNPS------NVDH----------------------------Y-------
+sp|Q9JLF1|GBRT_MOUSE                TDEELMACDQEKDSSSESEENCSP--------SPGCS--------F-NEGFSF-------
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      FFCCFEDCRTG--------AWRHG-R----------------------------------
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      RGPRMGTPVVQGPG------SCTP----------------------------V-------
+tr|Q3USX9|Q3USX9_MOUSE              PHGTLRPASLGSASTRPAFGSRLG-RIKTTVNTTGA------------AGNVSATPPPP-
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      -------------------RICNV------------------------------------
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      PPGSTD---TGKEAGAGGAGSVSP-SITGGSPGTGDSGTKPSGTLIKVEGDEDPPPPPAK
+tr|A0A343W7T8|A0A343W7T8_VARDE      RLGGLNQCDSKV----SRKASLSPDAIGGGSIGGGAL--------L-SPGVES-------
+tr|W8BLX5|W8BLX5_CERCA              --------------------KMTP------------------------------------
+tr|A0A343W7T9|A0A343W7T9_VARDE      RWLQFLYCIAGNK---------RY-R--------------------------DEMRRSA-
+tr|E0SJQ4|E0SJQ4_DICD3              ------------------------------------------------------------
+tr|A0A343W7U0|A0A343W7U0_VARDE      RPRMLASLKR--------HASMIR----------------------------T-------
+tr|A0A090XAM1|A0A090XAM1_IXORI      FTGGDEP-----------------------------------------------------
+tr|F1L254|F1L254_ASCSU              ------------------------------------------------------------
+                                                                                                
+
+sp|Q24352|GBRAL_DROME               ---------------------------KRTPQYNSVSKIDRASRIVFPLLFILINVFYWY
+sp|G5ECJ0|GBR1_CAEEL                ----------------------------------------WISQMLFFFGFVIFCLFYFL
+sp|P24046|GBRR1_HUMAN               ----------------------YVS------MRIDTHAIDKYSRIIFPAAYILFNLIYWS
+sp|Q9ES14|GBRE_RAT                  -------------------------------ICIHVYRLDNYSRVLFPITFFFFNVVYWV
+sp|O00591|GBRP_HUMAN                ------------------------------------------SKLLFPLIFMLANVFYWA
+sp|Q9JLF1|GBRT_MOUSE                ----------------------QLF------KPNRVPKVDRWSRFLFPLSFGLFNVVYWL
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      -------------------------------IHIRIAKMDSYARIFFPTAFCLFNLVYWV
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      ----------------------LSP------VSPTGLRADGREERHCPLLPLCCRRHAGA
+tr|Q3USX9|Q3USX9_MOUSE              ---------------------------APPPSGSGTSKIDKYARILFPVTFGAFNMVYWV
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      -----------------------------TRLRDDAATLDVFFRVGYFFTFLAFNGIYWG
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      RHTVTIWQLLIRKRYLMRKMTPDFELPNEEDLLDRFNIIDIYARRIFPTFFFAIFSIYWI
+tr|A0A343W7T8|A0A343W7T8_VARDE      ----------------------VLLQNPNGLCGVNPSDIDKYSRVVFPVCFVCFNLMYWV
+tr|W8BLX5|W8BLX5_CERCA              --------------------------------HEVSLWIDRKARFVFPLMFIIFNAIYWA
+tr|A0A343W7T9|A0A343W7T9_VARDE      ---------------------------PRGQTANSVSKIDRCSRILFPVSFIVLNVLYWV
+tr|E0SJQ4|E0SJQ4_DICD3              ------------------------------------------------------------
+tr|A0A343W7U0|A0A343W7U0_VARDE      ----------------------AIP------RIKDVNKIDKYSRIIFPLSYMLFNAVYWC
+tr|A0A090XAM1|A0A090XAM1_IXORI      --------------YVC-------TLVTPLTPRDIANGIDRHSRYLFPLAFIIFNCIYWS
+tr|F1L254|F1L254_ASCSU              ------------------------------------------------------------
+                                                                                                
+
+sp|Q24352|GBRAL_DROME               GYLSRSSRILANTPDAST-------------------------------------
+sp|G5ECJ0|GBR1_CAEEL                IYPNLHIVSVDPACDKNLAEWFADIY-----------------------------
+sp|P24046|GBRR1_HUMAN               IFS----------------------------------------------------
+sp|Q9ES14|GBRE_RAT                  ICLNL--------------------------------------------------
+sp|O00591|GBRP_HUMAN                YYMYF--------------------------------------------------
+sp|Q9JLF1|GBRT_MOUSE                YHVY---------------------------------------------------
+tr|A0A1X7SBZ8|A0A1X7SBZ8_HUMAN      SYLYL--------------------------------------------------
+tr|A0A1W2PRC4|A0A1W2PRC4_HUMAN      GHLPPAAPRPGE--PDGLLQVGGGGDRGDEEGGGSPLRRPGGHPCPAQAHRRRHH
+tr|Q3USX9|Q3USX9_MOUSE              VYLSKDTMEKSESLM----------------------------------------
+tr|A0A6F9DCP1|A0A6F9DCP1_9ASCI      YYVISTQHKESE--EDE--------------------------------------
+tr|A0A6A7G5N9|A0A6A7G5N9_9CRUS      LFNYYISDEFPHEPRIPSDGLVN--------------------------------
+tr|A0A343W7T8|A0A343W7T8_VARDE      IYMRISDVKYAE--PTVLH------------------------------------
+tr|W8BLX5|W8BLX5_CERCA              FVFCS--------------------------------------------------
+tr|A0A343W7T9|A0A343W7T9_VARDE      GYTQFAEDGWQRTSDT---------------------------------------
+tr|E0SJQ4|E0SJQ4_DICD3              -------------------------------------------------------
+tr|A0A343W7U0|A0A343W7U0_VARDE      FYLL---------------------------------------------------
+tr|A0A090XAM1|A0A090XAM1_IXORI      ILTSS--------------------------------------------------
+tr|F1L254|F1L254_ASCSU              -------------------------------------------------------
+                                                                                           

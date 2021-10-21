@@ -1,0 +1,352 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+sp|Q96FT7|ASIC4_HUMAN               MLSGAAGAARRGGAALAPSLTRSLAGTHAGADSCAGADKGSHKETIEERDKRQQRQQRQR
+sp|Q9NY37|ASIC5_HUMAN               ------------------------------------------------------------
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      ------------------------------------------------------------
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      ---------------------------------------------MY-------------
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      ------------------------------------------------------------
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      ------------------------------------------------------------
+tr|F8VSK4|F8VSK4_HUMAN              ------------------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      ------------------------------------------------------------
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               QHQGCGAAGSGSDSPTSGPHPVPVLFPLALSLEEQPLPPLPLGRAPGLLAREGQGREALA
+sp|Q9NY37|ASIC5_HUMAN               MEQTEK-----------------------------------------SK-----------
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      MSQSSD-----------------------------------------HD---SNK-----
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      ------------------------------------------------------------
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      ----ANNNWSASDNVIT---------------THEPLTGVTYASLS-RIERNQSG--PTA
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      ------------------------------------------------------------
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      MDRNFQ-----------------------------------------QR---PRK-----
+tr|F8VSK4|F8VSK4_HUMAN              ------------------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      MNNSCV-----------------------------------------QLAPDGKKTTTTA
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               SPSSR-----GQMPI--EIVCKIKFAEEDAKPKEKEAG---DEQSLLGAVAPGAAPRDLA
+sp|Q9NY37|ASIC5_HUMAN               --VYAENGL------LEKIKLC-L----------SKKPLP----------SPTERKKFDH
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      --TASDESSTDAHPNSQKVPIL-SHQDE------VDQDNPEPRNRFDLDFRWRPSIEHDE
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      ------------MPT-KQLKVMSQH----------NGGISVRKKRL-------LAIT-VS
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      ----------------------------------MDT--------HPWQRPRSKSINLEK
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      -------------------------------------------------MMAKGKIDHDE
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      RPQMRE----QEVPD--DIKFEPIFEDNVQSRKSSRANASIKSSEDEDKNGQDLKPSDFV
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      ---------------------MTSVRNR------FEKGNVEEGPTIEVPTDDEKPSSMFL
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      ---------------------------------------------METANNDIQSTNLEK
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      --PSVDFSTI------TTITTS-TKDQS------QDGDFF-----SQRQSSLNISYQHEE
+tr|F8VSK4|F8VSK4_HUMAN              -----------------------------------------MELKAEEEEVGGVQPVSIQ
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      QPLAMKANLKDTFPSATQSTFGPQWDTD------LKNGMTVADEKMEMKKETKSFGKLWL
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               TFASTSTLHGLGRACGPGPHGLRRTLWALALLTSLAAFLYQAAGLARGYLTRPHLVAMDP
+sp|Q9NY37|ASIC5_HUMAN               DFAISTSFHGIHNIVQNRS-KIRRVLWLVVVLGSVSLVTWQIYIRLLNYFTWPTTTSIEV
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      NFPFSASFHGIEHIYEGRY-GTRKILWILLVAATMIACFVFIFIQIAHYSAFHTTTKSTL
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      RGFEDCGAQGISNMARAQ-TTQARILWAILTIAAISLCTVMAVDLIQKYYRFEYDVTLKI
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      KFAERTTCHGLGHIVDQDVPKVRRYLWSIVTLAASVGCMIGCIQLLQYVLSFPTNIDIEI
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      RFATTTSYHGVAHIYDSNNSKKTKSIWIILVILATAICISQCVIIIYNASLLPTRMVIRK
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      FFASNSTFHGMSHIITSGRFTLRKALWAVAFFSSLSLFLVQAYDRYSYYRSHPHVTKLDE
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      HFAMNCSLHGLKNAFSESSKRPQKVIWLLLLMTCVAAALFQILDRILYFYQYPVSVLLDV
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      DFANATSYHGFGQFYKPQTTHYRRYFWMLLTVVATSACILQSSRIVIAAFQYPTKITSKV
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      DFAKRTSCHGISHVFDDETPKLRRLSWVFLTLAMATICIIQCADRMIYLISNPTKIVIKN
+tr|F8VSK4|F8VSK4_HUMAN              AFASSSTLHGLAHIFSYERLSLKRALWALCFLGSLAVLLCVCTERVQYYFHYHHVTKLDE
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      EFTDNCTLHGIRYIWNGD-FIFRRLLWLLLVLLCLGLMSYQIIDRIIYYYSWPVTVNVDI
+                                            :*.            :  * .                               
+
+sp|Q96FT7|ASIC4_HUMAN               AAPAPVAGFPAVTLCNINRFRHSALSDADIFHLANLT------G---------------L
+sp|Q9NY37|ASIC5_HUMAN               QY-VEKMEFPAVTFCNLNRFQTDAVAKFGVIFFLWHI-----VS---------------K
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      VY-EKQLAFPAVTICNYNSFRRSAVTANDLIHMAY-L-----VK---------------A
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      SF-KPQLDFPVITICNLNPMLRSEMIKRPIFKPLYGRDFESVNTSQTSPLVNNSSLSNNT
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      IH-QDSLIFPAVTICNFNQLTKTALSEEDNRHLQT-F-----LR---------------I
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      RL-MNSSVFPSVTICNTNDFDYTGLPANDLNHLSS-I-----VN---------------A
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      EE-ALEMNFPAITICNMNSFRLSAITTDDFYYAGKIL------G---------------L
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      NY-NDSLLFPTITICNQNKFRATEAYKLGIYRMIENV-----NK---------------A
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      RY-SNSSVFPAVTICNSNYLDKTKMDPDILAVVNS-V-----FS---------------N
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      EI-PPRIRFPAVTICNFNRFRNSTINESNYYRLQY-L-----LR---------------L
+tr|F8VSK4|F8VSK4_HUMAN              VA-ASQLTFPAVTLCNLNEFRFSQVSKNDLYHAGELL------A---------------L
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      NY-NKTLIFPSVTICNQNAFRATKAAELQRYRLLEYI-----YN---------------N
+                                            ** :*:** * :                                        
+
+sp|Q96FT7|ASIC4_HUMAN               PPKDRDGHR---------------------------------------------------
+sp|Q9NY37|ASIC5_HUMAN               VLHLQEITANSTGSRE--------------------------------------------
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      YRLNQGVVSDFIGEKER-------------------------------------------
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      VGQSDSNSSTPLPTNEVPQDATAAAAATTVAANSQGGTAAGSTKESGKTATPTGTKTSLP
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      YHRKGAINKKDL------------------------------------------------
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      IY--GYTPASAA------------------------------------------------
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      LNDDYSMQVTFKDNRTWP------------------------------------------
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      ENRSIAFSSEFI------------------------------------------------
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      YNRSALDLVN-L------------------------------------------------
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      MNAPQAPSKRSE-FSFR-------------------------------------------
+tr|F8VSK4|F8VSK4_HUMAN              LNNRYEIPDTQMADEKQ-------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      VRY---VDSSEL------------------------------------------------
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               ---------------------AAGLRYPEP----------DMVDILN--------RTGHQ
+sp|Q9NY37|ASIC5_HUMAN               ---------ATD-F---------AASHQNF----------SIVEFIR--------NKGFY
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      -------QKLINYW---K--KYDATHAKKF----------NYQLFVE--------RVGYH
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      RVKKSLSNDVNENIDRPTPPSGVQFENLDKSHENYHLFSEISAELFNRLTDQRMYELGTQ
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      -------ELATSYF--------RNKTGVDF----------HLQNLTQ--------DLGHR
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      -------DDAIQYF--------VQKHGDDF----------QINNYTR--------MAGHK
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      DV----SRKLQPILVQRS---DYKPRNKKF----------DMFEFYN--------RTGHE
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      ----------------------QQAEALNI----------SERDLRQ--------RISHT
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      -------GLTPEII--------AARFGQHA----------DYGFFAR--------AFGFK
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      -------NDLVNYS---------RNTNDDL-------------DLLS--------KVGIQ
+tr|F8VSK4|F8VSK4_HUMAN              ----------LEILQDKA--NFRSFKPKPF----------NMREFYD--------RAGHD
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      ----------------------ERFGYNNI----------TMEELFK--------SVAHQ
+                                                                                             .  
+
+sp|Q96FT7|ASIC4_HUMAN               LA-DMLKSCNFSGHH--CSASNF-SVVYT---RYGKCYTFNADPRS------------SL
+sp|Q9NY37|ASIC5_HUMAN               LNNSTLLDCEFFGKP--CSPKDF-AHVFT---EYGNCFTFNHGETL----------Q--A
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      AS-QMIKSCHFRGLK--CGPKNF-SNVLT---SYGNCITFNGPKLE---------SNPKL
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      AS-NFIAKCTFKQKP--CAANNFSISFNY---LYGNCFSFNTGNSRG---------KRIE
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      KD-DIIVSCLWDDQV--CGPENF-TTIFT---IYGNCYTFNSGAKK----------EGML
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      LK-NMLLSCTWMGEP--CTVNDF-TNIIS---NGGSCFTFNPGTNA----------IPLK
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      MK-GTVKRCRYRGTP--CEGSKYWIPVYT---RYGKCYTFNSGTNS-----------PPL
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      KE-DMIIDCHWSSER--CGPENF-TTIFT---DEGVCYGFNTDAS------------NPV
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      LK-DIILECTYHNFN--CLNSFT-EVVEP---NFGLCYQFNAGILQRGGNGNGGNNSSFH
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      RQ-ILIRYCNWDNQPHSCSAENF-TLTYT---KYGNCFLFNGQSAD----------NEAL
+tr|F8VSK4|F8VSK4_HUMAN              IR-DMLLSCHFRGEV--CSAEDFKVKPMQVAKELRRCTLPGT-----------------V
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      KE-DMIISCMWGSEP--CTFKNF-EQIYT---DHGVCYTYSQLQAG----------NKYR
+                                         :  * :      *  .               *   .                   
+
+sp|Q96FT7|ASIC4_HUMAN               PSRAGGMGSGLEIMLDIQQEEYLPI-WRETNETSFEAGIRVQIHSQEEPPYIHQLGFGVS
+sp|Q9NY37|ASIC5_HUMAN               KRKVSVSGRGLSLLFNVNQEAFTDN-PALG---FVDAGIIFVIHSPKKVPQFDGLGLLSP
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      YQKNPGAHQGLELLINIQEYEYTGS-WHSD---RPDIGIKFVIHERHYPPDVTSQGKAVG
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      SVNYPGPLFGLQLYLDINKNEYISR----E---VPTAGVRIAVTPQGVRPNPEDEGFDVP
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      SQRGKGSAHGLRLVLNIEQYKYSGK-LSYG---SPDAGIRFAVHSTADLPEMDAEGMSIP
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      NQTVSGNINGLRLILNVEQYKYYSPLFSPQ---APDAGIRFTINYYKQPPNFISKPYYAP
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      KTLKGGVDNGLEILLDTQQDQYMPV-WKETDEISVEAGFKVQIHSQTEPPFIHELGFGVA
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      KVASSGIENGLQLTLNVEQYEYMSG----G---QKSVGLKVLFHNPHDVPTIKNLGLASA
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      RQVGRGPSFGLQLVLDAEQYKYSTLDFFYR----YQAGFIIAIHDQFETSSMTINEISVG
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      YQKRIGRSHGLRLAFNVEADQYTTM---NP---EPDVGIKFRIHEPDEPADIEAQGVAIP
+tr|F8VSK4|F8VSK4_HUMAN              FQGTQRARKGLHTLWKVLHVQLGPR-WAAAAEDHE--GWDGQWAGNHA---------GHP
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      KALSTGAENGLRLILNVEQYEYMPG----P---NNAAGIKILMHNEDEFPKVRELGLATP
+                                             **    .                     *                      
+
+sp|Q96FT7|ASIC4_HUMAN               PGFQTFVSCQEQ-RLTYLPQPWGNCRAE-SELREPEL----QGYSAYSVSACRLRCEKEA
+sp|Q9NY37|ASIC5_HUMAN               VGMHARVTIRQV-KTVHQEYPWGECNPN-IK-----L----QNFSSYSTSGCLKECKAQH
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      PGSHAYASVKYK-TISNLPSPYGHCGS--KK-----L----AFYKKYTYAGCQISCKTEY
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      PGALTSIGLKMR-NISRLSRPYNKEGCLKHPPNNKTLNIYENGSDRYSYKGCIKSCIASL
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      PGMHAYASIPGADVIEGLPKPWGQCGS--QK-----L----KYFDHYSVSSCRREKEIDF
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      TGFHTYVPITLH-RDKRLTKPWGECGE--LL-----L----KDHSYYSRDACLTEYASEL
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      PGFQTLVATQEQ-RITFLPDPWGKCIEG-FD--KSQH----SHFKNYSISACRITCETKF
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      TGTNSFFGLQVV-EVIGLPKPRGMCEN--RK-----L----NLFPKYSRSSCEAECVTYA
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      VGRYTSISLHQTLIEKYLKPRWGECDD--QE-----L----AFYRKYTREACKQEKESLY
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      PGYHAYVRLKYN-EAKFLRKPIGKCDS--RP-----L----QYYDRYTRSGCKLECKTNK
+tr|F8VSK4|F8VSK4_HUMAN              AG--RVP----------------ACVGG-D------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      TGAHAFVGLKII-SLSNLPKPRGLCST--RD-----L----KYFSMYTPENCEIDCFTTR
+                                     *                                                          
+
+sp|Q96FT7|ASIC4_HUMAN               VLQRCHCRMVHMP-----DSLG--------------------------GGPEGPCFCPTP
+sp|Q9NY37|ASIC5_HUMAN               IKKQCGCVPFLLP-----GYGIECDLQKY--FSCVSPVLDHIEFKDLCTVGTHNSSCPVS
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      VQKKCGCRAPDMP--GQ-NVIPVCSPQKM--IECVSPNLEKLR-----TINDKVCICPIP
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      QNKTCGCIAARYSFTSSTKGLKVCSLKNETEINCQSRLQNRF------IAGKINCGCVRA
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      ILQRCGCVEPHHA-----RNLTPCSPEIM--LECVLPLMSSSN---PVSVGINASVCPVA
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      AALTCNCSSSGQT------ATNSCNGAKF--LTCIIPSSF-VI---RMSLSQNLSVCPIA
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      IFDNCKCRMIHMP-----GDTPYCTPEQY--MQCADSALDFLV-----KEDVKQCVCETP
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      LVETCGCRLSYMP--EVNDSVPLCSLVSF--ITCYIPQRDKFY-----S-FRLNCDCPLP
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      VMNLCKCRFKEVS--ESTVNYTICTTFDT--ITCVIPQLDLAS---RN--YRISNSCKIA
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      SIEVCGCRALYMP-----GSAPFCTAHQI--NQCMTNNIE--------EINNSSCYCPTA
+tr|F8VSK4|F8VSK4_HUMAN              ------------------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      LNERCNCRLFYMP--HKNDYPPVCTLKQQ--QDCYLPNKAEIL-----DLVRKTCVCPVP
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               CNLTRYGKEISMVRIPNRGSARYLARKY--------------------------------
+sp|Q9NY37|ASIC5_HUMAN               CEEIEYPATISYSSFPSQKALKYLSKKLNQS-----------------------------
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      CHIVHFDTTISYAKIPNPQMAKDLTEKINKTA--FQIETHGLV----------------D
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      CNEQSFEATTSQAQFPSEVNLDNNNDLL--------------------------------
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      CVQTEYNVEVSYALIPSQVVVNDISDQYNVTK--IIENARNQ---------------RLN
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      CETYSYPTEISQSSLGTFAFSRVLDPVINIST--ILGKAKDEHWI------------PPS
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      CDVTRYNLEMSTLQLPSTQALSYLAYKF--------------------------------
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      CNMLLFDPSISYTAHSENKVSKLIMDPRMADVKQKLINAKEVKHRMDSRSVSEFRNMLLN
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      CARKLFPKTISSSSIGTLAYGNILNKRLDLST--KLAYMQGLG--------------LLP
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      CLWTSYDPAVSYSMTPTETITSEEAPLFGLNL--------DEVDA------------NRV
+tr|F8VSK4|F8VSK4_HUMAN              ------------------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      CKSLLFEPTVSYATTSTYAVQSLMNRILSTGVKEKFIRAREVTNRMQLKVFNRTRDLLIN
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               ------------------------------------------------------------
+sp|Q9NY37|ASIC5_HUMAN               ------------------------------------------------------------
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      PDID--------------------------------------------------------
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      LTMS--------------------------------------------------------
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      LPYS--------------------------------------------------------
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      ------------------------------------------------------------
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      LNASNVAFRTVMLEKLEMTIKINLAILQNISKKMEKVYASKLFLINYQKYLIDKNFERPW
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      SSYT--------------------------------------------------------
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      LNSS--------------------------------------------------------
+tr|F8VSK4|F8VSK4_HUMAN              ------------------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      LENSFRPIKAFFDVDLSNRINSQIEIINNLYNTTKEQWALKQDLNKYQIYVTEKNFIRGR
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               ------------------------------------------------------------
+sp|Q9NY37|ASIC5_HUMAN               ------------------------------------------------------------
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      ------------------------------------------------------------
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      ------------------------------------------------------------
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      EAIAERTFHHVSFDFYNYVYTLENMFLKLDEFINSSGNQRASEMLIHSIKMTINSKLNMI
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      ------------------------------------------------------------
+tr|F8VSK4|F8VSK4_HUMAN              ------------------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      EAMEERTLKYLGFDFISFVFRMDEQIRSLVDPEIIT--KNLKDMIYFLINRDCKEHLQKN
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               ------------------------------------------------------------
+sp|Q9NY37|ASIC5_HUMAN               ------------------------------------------------------------
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      ------------------------------------------------------------
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      ------------------------------------------------------------
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      EKAEDNFTQYYESLKSGVGIFRYRYFNVPRSHNFYAVPKRLLTSRLNQSKTNYSIKFNNT
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      ------------------------------------------------------------
+tr|F8VSK4|F8VSK4_HUMAN              ------------------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      MKALGNYTELYDSLTNGIPIFRYKYKKIPRSHNLHIVPRLLFNRSLTYS--NYSKKYSRM
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               ------------------------------------------------------------
+sp|Q9NY37|ASIC5_HUMAN               ------------------------------------------------------------
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      ---------EY-------------------------------------------------
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      ------------------------------------------------------------
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      ------------------------------------------------------------
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      VTSL-KECLYIFSDMLDT-----RDSGFNLTKFTKVSNKFTQMSKIFNSIKSIFNSFTTK
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      ------------------------------------------------------------
+tr|F8VSK4|F8VSK4_HUMAN              ------------------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      VPLRINEIIEYLGEYMELANDTYQTGILNMSRLDIVSHRYGKACKNYNFAKSAFYYYCLD
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               ------------------------------------------------------------
+sp|Q9NY37|ASIC5_HUMAN               ------------------------------------------------------------
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      ------------------------------------------------------------
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      ------------------------------------------------------------
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      YALGIIKSKAAKLQTSMNNIRKIINDMN-------NSLTSLQIEQKHLNLTSSQNVFAVS
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      ------------------------------------------------------------
+tr|F8VSK4|F8VSK4_HUMAN              ------------------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      WALEEVKKKEVDFQMLWNDYENVAKDIMLNLNNVNSLLSSLQANI-----IA---DLDAG
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               ------------------------------------------------------------
+sp|Q9NY37|ASIC5_HUMAN               ------------------------------------------------------------
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      ------------------------------------------------------------
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      ------------------------------------------------------------
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      SDIIKYLTNTSVTKISLAAILHSPNHVLNMINLEIFMEELRERSSLLHHSWTKLNESVAL
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      ------------------------------------------------------------
+tr|F8VSK4|F8VSK4_HUMAN              ------------------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      IKLANDYLNDTISKRRLASMLSSQKTYEGVNNLQAFFSEVRSRGTLLYDNWKKLSQASVA
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               ------------------------------------------------------------
+sp|Q9NY37|ASIC5_HUMAN               ------------------------------------------------------------
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      ------------------------------------------------------------
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      ------------------------------------------------------------
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      LWQYIIQDRDSYAYYEYANYTKFSLPLENVTAELQDKYAGYREGSNMAKLFGTIDRDYFF
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      ------------------------------------------------------------
+tr|F8VSK4|F8VSK4_HUMAN              ------------------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      IWKSIFMDEDCFEYYNFANITQFQENPGDKINEIERTHEDVRNVYDFRHLIGNKDRILFH
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               ----------------NRNETYIRENFLVLDVFFEALTSEAMEQRAAYGLSALLGDLGGQ
+sp|Q9NY37|ASIC5_HUMAN               -------------------RKYIRENLVKIEINYSDLNYKITQQQKAVSVSELLADLGGQ
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      ------------------PTLYISQNYILLNVFFDDLYYEKTVSTPVYTFTSLLGNIGGQ
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      ----FKRDLTKFQLTRKTVTPFLRENLVAVNIYYEELNFETIEQTPRYSEIDLASDIGGV
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      ------------------KLEFIRENFAFLDVYYKDLYLFKTIQKQASGFVAFLSDIGGQ
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      ------------------VSEFIRDNIVYLDIYYSDLRVTETEQQEDTGFSKVLSEIGGQ
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      ----------------QETEDYVKNNYVKLNIFFEALNYETIEQKVAYEIPGLFGDIGGQ
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      WHKTVKEYVTKFKERNTINDLFVSENILEIAFFYKQLSYEIITDQVAYGFFSLLCDTGGA
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      ------------------VQDYIRDNIVQLDVFFSDLAHTTVQQEQDITPEEVLSNIGGQ
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      ------------------ISRYMRKNYIFLDIFFERLRYNTAIQELGYTFNAFLSDIGGQ
+tr|F8VSK4|F8VSK4_HUMAN              ------------------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      DFKKILNDMNNFEESLKIDDNFMRDNILELAVYYRELSYEEIKHQIGYYFFSLLCDIGGS
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               MGLFIGASILTLLEILDYIYEVSWDRLKRVWRRPKTPLRTSTGG--IS--TLGLQELKEQ
+sp|Q9NY37|ASIC5_HUMAN               LGLFCGASLITIIEIIEYLFTNFYWICIFFLLKISEMTQWTPPPQNHLGNKNRIE-----
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      LGLFVGASVLTLVEIIEFGFYRSRGAIRRSDW--KQNLR---KS--ISRSRE-VTATEEK
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      LGLWIGISVLTVFEFMEILVDSLLIIFGKEKIASRRNTITEFKA---------------Q
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      LGLFVGGSFLTMFEFFEYIYDKCFQQTKRSKREISRRMQ---S----IREKRRPESMASS
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      LGLCIGASVITLCEIIQYLIGKFFTSEKKTNLNKRQNTT---SP--LFYNRNSPDADATN
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      MGLFIGASILTILELFDYVYEVIKEKACGGKRKQKKN-DIERGT--LT--EVD-------
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      LGLLLGSSILTIFELADFAIGFSFQKLLAKLLMKKRVDN-----------------L---
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      LGLFIGVSMLTVCEIVFYIFDKMQYWPQRRNRDNRQTTP---VD--FEMKKSKVNNNANT
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      LGLFIGASVLTMLEIGEYFLTKLKNLCKIIKRPTSQNEY---EI-----APASPNTTFEE
+tr|F8VSK4|F8VSK4_HUMAN              ------------------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      MGLFLGASVLTIFEIAEFFFGQSLRAAFQVQRSR--------------------------
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               SPCPSRGRVEGGGVSSLLPNHH--HPHG-PPGGLFEDFAC--------------------
+sp|Q9NY37|ASIC5_HUMAN               --E--C------------------------------------------------------
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      EPL--CS-VEN---------------------GD-TQLSK--------------------
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      --------LQASGLA---------------------------------------------
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      TSV--RGNLSTNVHNFKVNESI--SSHNVRSNGIKSKFRRS-------------------
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      PDM---------------------------------------------------------
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      -----NPNIKGSGKDYVVANHQCVQPHS-IEGGHQTRYTTPYNTYPTRHDDYLPTKSSNS
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      ------------------------------------------------------------
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      IGV--MG--------Y----------------GAET------------------------
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      NPI--PV-----------------------------------------------------
+tr|F8VSK4|F8VSK4_HUMAN              ------------------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      ------------------------------------------------------------
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               ------------------------------------------------------------
+sp|Q9NY37|ASIC5_HUMAN               ------------------------------------------------------------
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      --------NSEHLANIRISPSSID------------------------------------
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      ------------------------------------------------------------
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      YETHNHRNQTDDFRSL--PPPPLQYTGRSTTPQPFSRSARGFVPRTNVSYNRREPNQRAH
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      ------------------------------------------------------------
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      ------------------------------------------------------------
+tr|F8VSK4|F8VSK4_HUMAN              ------------------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      ------------------------------------------------------------
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               ------------------------------------------------------------
+sp|Q9NY37|ASIC5_HUMAN               ------------------------------------------------------------
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      ------------------------------------------------------------
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      ALSASYTDLNHYEEQQQQDNAHDHYSYKRPQYLQDFSTIDTGTTSFSGQVNPPSSSMRSR
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      ------------------------------------------------------------
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      ------------------------------------------------------------
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      ------------------------------------------------------------
+tr|F8VSK4|F8VSK4_HUMAN              ------------------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      ------------------------------------------------------------
+                                                                                                
+
+sp|Q96FT7|ASIC4_HUMAN               --------------------------------------------------
+sp|Q9NY37|ASIC5_HUMAN               --------------------------------------------------
+tr|A0A5J6BV03|A0A5J6BV03_TRIAD      --------------------------------------------------
+tr|A0A5J6BSU1|A0A5J6BSU1_TRIAD      --------------------------------------------------
+tr|A0A5J6BSS6|A0A5J6BSS6_TRIAD      --------------------------------------------------
+tr|A0A5J6BVG3|A0A5J6BVG3_TRIAD      --------------------------------------------------
+tr|A0A6F9D6S5|A0A6F9D6S5_9ASCI      PESRIIAPTPIILSDASNPPYSAQMMMTSPQHNGMGGKEFNTASIETDIH
+tr|A0A6C0PNQ7|A0A6C0PNQ7_OCTVU      --------------------------------------------------
+tr|A0A5J6BWR3|A0A5J6BWR3_TRIAD      --------------------------------------------------
+tr|A0A5J6BTF2|A0A5J6BTF2_TRIAD      --------------------------------------------------
+tr|F8VSK4|F8VSK4_HUMAN              --------------------------------------------------
+tr|A0A6C0PNB7|A0A6C0PNB7_OCTVU      --------------------------------------------------
+                                                                                      

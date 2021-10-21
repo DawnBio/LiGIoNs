@@ -1,0 +1,125 @@
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             LGICres/high_score.fasta.single
+# target HMM database:             allLGIChmms
+# output directed to file:         LGICres/high_score.fasta.tmp.txt
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sp|Q86LG1|PPK28_DROME  [L=606]
+Description: Pickpocket protein 28 OS=Drosophila melanogaster OX=7227 GN=ppk28 PE=1 SV=2
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+    1.3e-71  231.3   8.9    1.3e-55  178.4   3.1    2.0  2  ENaCs     
+    3.3e-56  180.1  13.9    2.7e-37  117.6   8.4    3.0  2  ASICs     
+
+
+Domain annotation for each model (and alignments):
+>> ENaCs  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   56.5   0.3   2.2e-19   1.1e-18      32     128 ..      31     129 ..      10     137 .. 0.87
+   2 !  178.4   3.1   2.6e-56   1.3e-55     184     545 ..     137     529 ..     131     567 .. 0.85
+
+  Alignments for each domain:
+  == domain 1  score: 56.5 bits;  conditional E-value: 2.2e-19
+                  ENaCs  32 eaaeslkellveyckntniHGvkrlvvskgrklkealwallvllivalvywqlsllvetYlswqvspvils.....vsvqkieFPaVT 114
+                               + +k+++v+y kn++ HG+k ++ ++   ++e++++ l +++v  v++ ++++ + Y++w  sp+i+s     +   +++FPa+T
+  sp|Q86LG1|PPK28_DROME  31 CSRAAIKRSVVYYLKNSTLHGLK-YIAEESITIPERIFFGLAFVLV--VILSVFFISNVYVKWSASPIIIStsakqKLTSNMPFPAIT 115
+                            455678999**************.99999999*********99999..***********************8887777789******* PP
+
+                  ENaCs 115 vCnenPiryskike 128
+                            +Cn n   +sk+ +
+  sp|Q86LG1|PPK28_DROME 116 ICNLNQALLSKVDR 129
+                            *****888888765 PP
+
+  == domain 2  score: 178.4 bits;  conditional E-value: 2.6e-56
+                  ENaCs 184 lkvalklcnsnyekftsgvvqewyrlqyvdilaklpdelgeqlsefilsCkfngescnarnfttfthpeyGnCYtfNsgrqknil... 268
+                            + +++ lc++  ++ +s +   w+ +++  il ++     ++ ++++l+C+f++++ ++   +t   ++ G C  fN+++ + +    
+  sp|Q86LG1|PPK28_DROME 137 FSLLMGLCDQGGDTTISYI-GTWKYFKA--ILVDV----AQPCEKMLLYCSFGSREEDCSWLFTSILTDDGLCCNFNALHPSYLIrny 217
+                            5667778886666666664.66666655..44555....47899*********************************998877669** PP
+
+                  ENaCs 269 .....................................rvsspGvenGLkltLqveqeeylpllstvaGvrvlvhepdevPfvedqgie 319
+                                                                 ++  +G++ GL+++L+    ey+   s + G++vlvh+p e P v++ g+ 
+  sp|Q86LG1|PPK28_DROME 218 sddvrletahpntryelidwtpekgyarnlpefyfprTSGGTGIRMGLTVVLNASIAEYYCTKSMSVGFKVLVHNPAELPKVSNYGFV 305
+                            ************************************888899********************************************** PP
+
+                  ENaCs 320 vppGtetsisvrkeevarlsnpygdctedredveveely...nksYtqqnCltsClqnlmvskCgCakflyPkpkgs.eyCnlkeepd 403
+                            v +G e+ i + + + + l+ +++  +  r++++++e      + Y+++nC  +C ++l++++C+C+ + +P+      +C+ +++  
+  sp|Q86LG1|PPK28_DROME 306 VTAGREARIPIEPVYEDALPTIRSIKKSVRRCLFSDENDlayYRTYSRKNCELECEAKLLLRECSCVLYYLPRIDPLaRVCGPNDN-- 391
+                            *********************************9987544449******************************987659*******.. PP
+
+                  ENaCs 404 WahCysrlqeelsa.eslecscnCkkpCneleYklsislakWpseksedw..ilevlseeekeptnsnlkrknlakLniyfkelnyre 488
+                              +C +r+q e++   ++ + +nC + C el+Y+ + s+a   s    ++  +l  +      ++    + ++++ L  y+    +r+
+  sp|Q86LG1|PPK28_DROME 392 --QCTDRVQTEIESsLTNLSCENCWPGCFELTYRATLSTASIVSDPRFQAgeNLPEY-----IFHGPYSNASEISILHFYYMTNIFRS 472
+                            ..**********88445555569*****************98766554440044444.....22333457899999999********* PP
+
+                  ENaCs 489 ieespaysvveLlsnlGgqlglwmgvSvlsllElielf.ldllvliirlvallksrkk 545
+                             ++s++++ +e+lsn Gg+lgl+mg+S+ s++E+  ++ ++    ++ l++   +r+ 
+  sp|Q86LG1|PPK28_DROME 473 TTKSEMFGFTEFLSNTGGLLGLFMGFSIFSVIEIFFYItVRPYCASRTLRQR-HKRRL 529
+                            *********************************9988879998886333333.23333 PP
+
+>> ASICs  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   62.2   0.2   3.2e-21   1.6e-20      57     241 ..      35     209 ..       5     222 .. 0.78
+   2 !  117.6   8.4   5.4e-38   2.7e-37     249     525 ..     256     527 ..     251     543 .. 0.82
+
+  Alignments for each domain:
+  == domain 1  score: 62.2 bits;  conditional E-value: 3.2e-21
+                  ASICs  57 ksikleedFasstslhGlshivdsestklrrllWlllvlaalalclvqivdriiyylsfpt..kvkldveyaksleFPaVTiCNlNrf 142
+                            + ++++  + ++++lhGl++i++++ t   r++  l++++ ++l +++i + + + ++ p   +++ ++++ +++ FPa+TiCNlN+ 
+  sp|Q86LG1|PPK28_DROME  35 AIKRSVVYYLKNSTLHGLKYIAEESITIPERIFFGLAFVLVVILSVFFISNVYVKWSASPIiiSTSAKQKLTSNMPFPAITICNLNQA 122
+                            44455677899***********************************************997224566788899*************** PP
+
+                  ASICs 143 rksavskndlyhllellvklvnrsqeisstslekeedlteylaakenkdfdmeellrrvGhqlkdmilsCtfrgep..Csaenftkvy 228
+                              s+v+  +    +  l  l+   ++  +t       +++y+   ++     + +l +v+   ++m+l+C f + +  Cs   ft+++
+  sp|Q86LG1|PPK28_DROME 123 LLSKVDRIGRTSTNFSL--LMGLCDQGGDT-------TISYIGTWKYF----KAILVDVAQPCEKMLLYCSFGSREedCSW-LFTSIL 196
+                            *****998888777655..44433334443.......35777333333....5688899999**********775544986.69**** PP
+
+                  ASICs 229 teyGnCytFntge 241
+                            t+ G C  Fn+ +
+  sp|Q86LG1|PPK28_DROME 197 TDDGLCCNFNALH 209
+                            **********865 PP
+
+  == domain 2  score: 117.6 bits;  conditional E-value: 5.4e-38
+                  ASICs 249 qkssgaenGLelllnveqyeYtsrwaeespdaGikvaihsqkeppeieelglavppGahayvslkekeikrLpkPwGkCge.rk.... 331
+                            + ++g + GL ++ln    eY+     +s ++G+kv++h+++e+p++ + g+ v +G++a + ++ + +  Lp  +   ++ r     
+  sp|Q86LG1|PPK28_DROME 256 SGGTGIRMGLTVVLNASIAEYYCT---KSMSVGFKVLVHNPAELPKVSNYGFVVTAGREARIPIEPVYEDALPTIRSIKKSvRRclfs 340
+                            567899****************99...8999*********************************998888777666655553335555 PP
+
+                  ASICs 332 ....LkyfskYsrsaCkkecetelvlktCgCralemp...dslpvCslkkiieCvspnldkle.svgrknc.vCpvaCeetsydktiS 410
+                                L+y++ Ysr++C++ece++l+l +C C++ ++p     + vC +++ ++C  + + ++e s+ + +c  C   C e+ y +t S
+  sp|Q86LG1|PPK28_DROME 341 dendLAYYRTYSRKNCELECEAKLLLRECSCVLYYLPridPLARVCGPND-NQCTDRVQTEIEsSLTNLSCeNCWPGCFELTYRATLS 427
+                            5677*********************************8866778999876.79*********98888888855999************ PP
+
+                  ASICs 411 yasi...pseavlkllakklnlsvklikakeekllnleasveeyireNivkldvfyedLnyetieqqqaytfsellsdiGGqLGLfiG 495
+                            +asi   p  ++ ++l + +               + ++s+       i  l ++y    +  +++ +  +f+e+ls++GG LGLf+G
+  sp|Q86LG1|PPK28_DROME 428 TASIvsdPRFQAGENLPEYI--------------FHGPYSNAS----EISILHFYYMTNIFRSTTKSEMFGFTEFLSNTGGLLGLFMG 497
+                            **993334455555655555..............233445543....466899*********************************** PP
+
+                  ASICs 496 aSvLTilEiieylfdkllealkrskrkkkq 525
+                             S+  ++Ei+ y+  + + a +    ++k+
+  sp|Q86LG1|PPK28_DROME 498 FSIFSVIEIFFYITVRPYCASRTLRQRHKR 527
+                            ************976655444333332333 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (606 residues searched)
+Target model(s):                          10  (8977 nodes)
+Passed MSV filter:                         2  (0.2); expected 0.2 (0.02)
+Passed bias filter:                        2  (0.2); expected 0.2 (0.02)
+Passed Vit filter:                         2  (0.2); expected 0.0 (0.001)
+Passed Fwd filter:                         2  (0.2); expected 0.0 (1e-05)
+Initial search space (Z):                 10  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.07u 0.01s 00:00:00.08 Elapsed: 00:00:00.08
+# Mc/sec: 63.15
+//
+[ok]

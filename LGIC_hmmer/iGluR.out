@@ -1,0 +1,16 @@
+# hmmbuild :: profile HMM construction from multiple sequence alignments
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# input alignment file:             LGIC_clustal/iGluR.clu
+# output HMM file:                  LGIC_hmmer/iGluR.hmm
+# name (the single) HMM:            iGluR
+# output directed to file:          LGIC_hmmer/iGluR.out
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# idx name                  nseq  alen  mlen eff_nseq re/pos description
+#---- -------------------- ----- ----- ----- -------- ------ -----------
+1     iGluR                   67  2927  1369    13.83  0.590 
+
+# CPU time: 4.15u 0.01s 00:00:04.16 Elapsed: 00:00:04.80

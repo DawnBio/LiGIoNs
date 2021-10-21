@@ -1,0 +1,401 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+tr|D2KU21|D2KU21_CIOIN              ------------------------------------------------------------
+tr|W8BRS1|W8BRS1_CERCA              ------------------------------------------------------------
+tr|W8BGG3|W8BGG3_CERCA              ------------------------------------------------------------
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      ------------------------------------------------------------
+tr|W8CCH3|W8CCH3_CERCA              ------------------------------------------------------------
+tr|A0A6A7G781|A0A6A7G781_9CRUS      -------------MVDLR-KAIP-------AVLSISGLLLFCFLPYSVST------TEV-
+tr|V9KG20|V9KG20_CALMI              ------------------------------------------------------------
+tr|C1LH26|C1LH26_SCHJA              ------------------------------------------------------------
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      ------------------------------------------------------------
+tr|D1LX31|D1LX31_SACKO              ------------------------------------------------------------
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      MSSSMEGRSRRHEERTLRGASIPSSAPWSEASSAAAKGFLFCFILGALLSTA--HGQIV-
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      ------------------------------------------------------------
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      ---------------------------MSVAECVFQLLLLHVMLVSSMQTSSTVLRPERS
+tr|D1LX32|D1LX32_SACKO              ------------------------------------------------------------
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      ------------------------------------------------------------
+tr|F1L4V2|F1L4V2_ASCSU              ------------------------------------------------------------
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ------------------------------------------------------------
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              ------------------------------------------------------------
+tr|W8BRS1|W8BRS1_CERCA              ------------------------------------------------------------
+tr|W8BGG3|W8BGG3_CERCA              ------------------------------------------------------------
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      ------------------------------------------------------------
+tr|W8CCH3|W8CCH3_CERCA              ------------------------------------------------------------
+tr|A0A6A7G781|A0A6A7G781_9CRUS      ------SVYQFQED-DQP-SDSYL--TWLGDLESAFDGVQNLTICCWLRFFSVWEVSRFI
+tr|V9KG20|V9KG20_CALMI              ------------------------------------------------------------
+tr|C1LH26|C1LH26_SCHJA              ------------------------------------------------------------
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      ------------------------------------------------------------
+tr|D1LX31|D1LX31_SACKO              ------------------------------------------------------------
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      ------TVLNFQPE-GLPTRDTYA--LYRGNLSREYE-LHSLTLCFRFNFHYLHASATVI
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      ------------------------------------------------------------
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      VNYIDLRAVVFGDDVMVPTSGQIKQLLNETILRFSVSEFQGLTICTWMKKTRNDFYADLM
+tr|D1LX32|D1LX32_SACKO              ------------------------------------------------------------
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      ------------------------------------------------------------
+tr|F1L4V2|F1L4V2_ASCSU              ------------------------------------------------------------
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ------------------------------------------------------------
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              ------------------------------------------------------------
+tr|W8BRS1|W8BRS1_CERCA              ------------------------------------------------------------
+tr|W8BGG3|W8BGG3_CERCA              ------------------------------------------------------------
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      ------------------------------------------------------------
+tr|W8CCH3|W8CCH3_CERCA              ------------------------------------------------------------
+tr|A0A6A7G781|A0A6A7G781_9CRUS      QLTDEATQK--H-SI---QIDVDVRRIRVSIGGLRRYHKLRSKLRALTWHHLCVTYASKS
+tr|V9KG20|V9KG20_CALMI              ------------------------------------------------------------
+tr|C1LH26|C1LH26_SCHJA              ------------------------------------------------------------
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      ------------------------------------------------------------
+tr|D1LX31|D1LX31_SACKO              ------------------------------------------------------------
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      KLEDSVTGI--DESL---VGILWIDRIRTMLGGLRKFQPLKKEFRANRWHHVCFLYNDEE
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      ------------------------------------------------------------
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      FLTSGLREELFQTSIFFDYGTMWIRS-------DNYIGKLDFKFPFRTWVHFCLAISERN
+tr|D1LX32|D1LX32_SACKO              ------------------------------------------------------------
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      ------------------------------------------------------------
+tr|F1L4V2|F1L4V2_ASCSU              ------------------------------------------------------------
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ------------------------------------------------------------
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              ------------------------------------------------------------
+tr|W8BRS1|W8BRS1_CERCA              ------------------------------------------------------------
+tr|W8BGG3|W8BGG3_CERCA              ------------------------------------------------------------
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      ------------------------------------------------------------
+tr|W8CCH3|W8CCH3_CERCA              ------------------------------------------------------------
+tr|A0A6A7G781|A0A6A7G781_9CRUS      TFT--YVDGLVQDLHKGE---LRMP--IRGTKLKIG----AGDAESNFHGQLTQVNMWNR
+tr|V9KG20|V9KG20_CALMI              ------------------------------------------------------------
+tr|C1LH26|C1LH26_SCHJA              ------------------------------------------------------------
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      ------------------------------------------------------------
+tr|D1LX31|D1LX31_SACKO              ------------------------------------------------------------
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      EWISSFVDGKFNYK--DS---LKIPGVASGDTVWLGQGAKVGVDETSFSGLLTQVNVWDY
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      ------------------------------------------------------------
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      TL---YVNGVVVDCNPSCNYNAFYENLMNNSLLIFGAGSIY--EQVATHVQMADIRVYTQ
+tr|D1LX32|D1LX32_SACKO              ------------------------------------------------------------
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      ------------------------------------------------------------
+tr|F1L4V2|F1L4V2_ASCSU              ------------------------------------------------------------
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ------------------------------------------------------------
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              ------------------------------------------------------------
+tr|W8BRS1|W8BRS1_CERCA              ------------------------------------------------------------
+tr|W8BGG3|W8BGG3_CERCA              ------------------------------------------------------------
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      ------------------------------------------------------------
+tr|W8CCH3|W8CCH3_CERCA              ------------------------------------------------------------
+tr|A0A6A7G781|A0A6A7G781_9CRUS      ELSGEEIERLADCA------SHLQGNIIPWNSDWDTHGRVVQFRESLQFFCKTT-IEPKY
+tr|V9KG20|V9KG20_CALMI              ------------------------------------------------------------
+tr|C1LH26|C1LH26_SCHJA              ------------------------------------------------------------
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      ------------------------------------------------------------
+tr|D1LX31|D1LX31_SACKO              ------------------------------------------------------------
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      VLSEEEVVGMAKCD------TDPQGNYVAWNIGWTLMN-IVSYEEDLSTICQLEGTRISY
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      ------------------------------------------------------------
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      LLNSQEVAKVMRFEHLTDVDDVYSGKIN----------R------SILIKSILEKTETIL
+tr|D1LX32|D1LX32_SACKO              ------------------------------------------------------------
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      ------------------------------------------------------------
+tr|F1L4V2|F1L4V2_ASCSU              ------------------------------------------------------------
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ------------------------------------------------------------
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              ------------------------------------------------------------
+tr|W8BRS1|W8BRS1_CERCA              ------------------------------------------------------------
+tr|W8BGG3|W8BGG3_CERCA              ------------------------------------------------------------
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      ------------------------------------MRVYRALL----------------
+tr|W8CCH3|W8CCH3_CERCA              ------------------------------------------------------------
+tr|A0A6A7G781|A0A6A7G781_9CRUS      Y-LFPHMGLYEGFTLCEGLGGRLPTPENKIIL----KATYEAVTALAEVYSIDC-QGYWV
+tr|V9KG20|V9KG20_CALMI              ------------------------------------------------------------
+tr|C1LH26|C1LH26_SCHJA              ------------------------------------------------------------
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      ------------------------------------------------------------
+tr|D1LX31|D1LX31_SACKO              ------------------------------------------------------------
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      Q-WFSTMSQDEAYYLCEALGGTLPEISDVAG-----AELYHAIAATTWPNEKGCKTKFWT
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      ------------------------------------------------------------
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      ILFSDDMTYRHARKTCRRYGGILPYSSEELVKQIDLTLDYEDIG------------QLWM
+tr|D1LX32|D1LX32_SACKO              ------------------------------------------------------------
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      ------------------------------------------------------------
+tr|F1L4V2|F1L4V2_ASCSU              ------------------------------------------------------------
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ------------------------------------------------------------
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              ------------------------------------------------------------
+tr|W8BRS1|W8BRS1_CERCA              ------------------------------------------------------------
+tr|W8BGG3|W8BGG3_CERCA              ------------------------------------------------------------
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      ---------------------------------------LLLLT---SLVNIGCFITPVR
+tr|W8CCH3|W8CCH3_CERCA              ------------------------------------------------------------
+tr|A0A6A7G781|A0A6A7G781_9CRUS      GATDEETEGTWIRLK-DNKPVTPYWRPSEPDGGDVQNCARCGMKDDLDIEDIPCDW-KQC
+tr|V9KG20|V9KG20_CALMI              ------------------------------------------------------------
+tr|C1LH26|C1LH26_SCHJA              ------------------------------------------------------------
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      ------------------------------------------------------------
+tr|D1LX31|D1LX31_SACKO              ------------------------------------------------------------
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      GLTDIDVDGEWRHATSPHKQVNLFWAGGEPDGIFYQNCALIYPE---GMRDVNCPVTFKC
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      ------------------------------------------------------------
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      NGNR---------TTSDECPSAYYIIDDKGNSVLLQELLI-------------CKA-RLQ
+tr|D1LX32|D1LX32_SACKO              ------------------------------------------------------------
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      ------------------------------------------------------------
+tr|F1L4V2|F1L4V2_ASCSU              ------------------------------------------------------------
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ------------------------------------------------------------
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              ---------------------------------------MQSQYNVCHFVAVLVL-----
+tr|W8BRS1|W8BRS1_CERCA              -----------------------------------------MEYQ-----IFLLV-----
+tr|W8BGG3|W8BGG3_CERCA              ------------------------------------------------------------
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      CFEYIRESHVWDQFLNSSDSIISINNDGF--YSDTYNDFHSSIYSDSISDSNVLINNEDS
+tr|W8CCH3|W8CCH3_CERCA              -----------------------------------MRNIHFHVVTKV-----LLL-----
+tr|A0A6A7G781|A0A6A7G781_9CRUS      VLCVVPVLPVWTMLGA---CQIHDRNRLFAPVQNEPGELMFEGYSYY------TI-----
+tr|V9KG20|V9KG20_CALMI              -----------------------------------------MKLIKA---SFLFV-----
+tr|C1LH26|C1LH26_SCHJA              ------------------------------------------------------------
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      ---------------------------------------------MAR--QFILL-----
+tr|D1LX31|D1LX31_SACKO              --------------------MIA-RKPRQ--GKNTYGDNSYSKRENQRLWSILLL-----
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      AVCEHKSSTAFSLRGT---CETDKRHVYFTSHQPSLGEIQFRGYGGY------YI-----
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      -----------------------------------------MVYNV--YLLLVIL-----
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      FICVVDRAVQFRILGNAFDE-----KSEFTAYLETITQ-HYMSFITK---TRIYC-----
+tr|D1LX32|D1LX32_SACKO              ------------------------------------------------------------
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      -----------------------------------------MDYPTV----MVVI-----
+tr|F1L4V2|F1L4V2_ASCSU              ------------------------------------------------------------
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ------------------------------------------------------------
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              -LL--------------CTCILGFD---------------ESDNRPLEPRHENLFNA---
+tr|W8BRS1|W8BRS1_CERCA              -IF--------------SICLEK-------------------------------------
+tr|W8BGG3|W8BGG3_CERCA              ------------------------------------------------------------
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      NIYNINGN---------NEVLNSII---------------KKDHNPINHKDHNIINNTAN
+tr|W8CCH3|W8CCH3_CERCA              ------------------------------------------------------------
+tr|A0A6A7G781|A0A6A7G781_9CRUS      --ERRNNT---------WYWIEKEENHHNRTIATLVKGSSIRKSWPIGRHSWLFE-----
+tr|V9KG20|V9KG20_CALMI              -IF--------------CFWIEEGS---------------SKDSKKAKAKKKQ-------
+tr|C1LH26|C1LH26_SCHJA              ------------------------------------------------------------
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      -YF--------------TFSLNNVG---------------IF------------------
+tr|D1LX31|D1LX31_SACKO              -LL--------------TLAVHGVS---------------TDA-----------------
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      --IKEDGL---------WVWRERKGEAIIA------TLEPTQPDFPLGRRRWNLQ-----
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      -LY--------------CDAV---------------------------------------
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      -IYNRHTYQFTIMNHDLVIWNSSYL---------------FAQNYLMGRYLWTNN--Q--
+tr|D1LX32|D1LX32_SACKO              ------------------------------------------------------------
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      ------SN---------AVLVHA-------------------------------------
+tr|F1L4V2|F1L4V2_ASCSU              ------------------------------------------------------------
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ------------------------------------------------------------
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              --------ELPID-REYDYD-----NYY----------GEIPKQRKKTVSTQTHTES---
+tr|W8BRS1|W8BRS1_CERCA              -------------------------------------------------FTTG--EY---
+tr|W8BGG3|W8BGG3_CERCA              MLDKYMNLLLPCS-LGLIWI-----------------------W----LTDSTDALM---
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      SINTMNKFNIPDD-DGFNSTTSSSNGYTSEPNSTGSDKDEVSSHVTRETNSVLPSLR---
+tr|W8CCH3|W8CCH3_CERCA              ---------------SFIFTA-----------------TQLSAATSQELEEDCPPISN--
+tr|A0A6A7G781|A0A6A7G781_9CRUS      ---KSVCDEEPGEVRTLLLSPCKEKHFT------------CDDATCIPLFQRCDLKPDCR
+tr|V9KG20|V9KG20_CALMI              --------------------------YL------------CPSQ-----QSAEDRAL---
+tr|C1LH26|C1LH26_SCHJA              -------------------------MYISTPQIIY-----LTISILHILYESKCAVL---
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      ---------------------------G----------QGGDNPIGRTQRADGWADT---
+tr|D1LX31|D1LX31_SACKO              -----------------------------------------------NTEEDGDHSS---
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      ---RSMCSQEPGA-RVLLFSPCGIEDFT------------CDDAKCISLEKRCDLKYDCH
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      --------------------------------------------------------L---
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      -------INN-QNEELLTFTNCRKDEFT------------CTNGDCIPILEVCNFGTQCK
+tr|D1LX32|D1LX32_SACKO              --------------------------MN----------DGTSSAVSDTINRSSDKKL---
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      ---------LTI--------------------------DILLMHVSMTLGSSGEYF----
+tr|F1L4V2|F1L4V2_ASCSU              -----MRSQFIIS-ILFFFL--------------------HSVWVD--AQSSK-VLRS--
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ------------------------------------------------------------
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              TEEKKATYFLD--NLFNGYDQRIRPHHK-----RS--PVNVTV----------NIFVNSF
+tr|W8BRS1|W8BRS1_CERCA              QQSLAITDILP--EDIKRYDKMRPPKKD-----GQ--PTIVYF----------HVTVMGL
+tr|W8BGG3|W8BGG3_CERCA              N---YTAKPRV--VLPPNYVKEMRPPSK----KGS--PVIVDF----------SIFVVDI
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      RSSSSQTEILG--RLLRGYDVNEWPHSY----YGK--RTDVHV----------QMFINSF
+tr|W8CCH3|W8CCH3_CERCA              ATNLQQTQLIQRLTHVCRYDRLERPIEYGQNGERL--PVTVRA----------RIYVYFL
+tr|A0A6A7G781|A0A6A7G781_9CRUS      DGSDEKSCRLV--QFPLTYRSDIPPAALG-SESPL--QV--AL----------HITIESA
+tr|V9KG20|V9KG20_CALMI              IPANSTSNLIN--RLLISYDPRIRPNFK-----GI--PVDVHV----------NIFIASF
+tr|C1LH26|C1LH26_SCHJA              DTSSIRDEIVE--TLFANYQSHVRPGEL----IRN--TTVVTV----------YISVSAI
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      QKELETIALFD--DILVNYDKRIRPGYG----SNS--PVRNTV----------QIYLASF
+tr|D1LX31|D1LX31_SACKO              HNVTSTSTFLN--TLLKTYDKRIRPNFD-----GD--PVNVTV----------DMLISRI
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      DHSDEVDCHLI--KFPAGYQYDLPPRQTSLTESVL--PV--VA----------NITIKSI
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      TENATTRRGIS--DLLTGYDKILRPNME-----GP--PVIVTT----------SIHINNF
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      DKSDEYFCNYTR-SRPSHYDKHFSKINF---------------ADSNVLNIGAKFKIIGI
+tr|D1LX32|D1LX32_SACKO              SNQEIQSLIID--QLLVGYDRRIRPFAD-----EK--PVIVHC----------DMYITSF
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      ---REDLKLLS--QIGDTQMSKLRPTVR-----GE--PTVVSC----------NININSF
+tr|F1L4V2|F1L4V2_ASCSU              RQIGFEGQILS--RLFSDYDEYTRPPVRGCNPYYLDIPFIVCFADSADHSSIVVITSLFV
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ------------------------------------------------------------
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              GSIAETTMDYRVNIFLRCRWNDQRMAFTG--FD--EDAVALHPSMLENIWRPDLFFANEK
+tr|W8BRS1|W8BRS1_CERCA              DSIDENSMTYVADVFFAQTWKDHRLRLPENMTQ--EY-RLLEVDWLKNMWRPDSFFKNAK
+tr|W8BGG3|W8BGG3_CERCA              NSINVEDMDFRVDMFIHQRWLESRLEVSDDIFEEGDDYVTLLPEFFDNLWQPDPYFLNSK
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      GSLNAVGMDFRIDLFLRQTWQDPRLAYSD--KR--KYLTLMESKVQKKIWRPDTYFDNVK
+tr|W8CCH3|W8CCH3_CERCA              QNLNSDLLQFKMHALLQLSFNDSRLAYKELKR---HDNIIGQKHLSERLWLPHIFFANER
+tr|A0A6A7G781|A0A6A7G781_9CRUS      D-IDTASMMMHVNYNLTMTWSDQRLEFLNLNED--RTLNRVKQEMVEQVWVPVVDFTNTK
+tr|V9KG20|V9KG20_CALMI              GSIQETTMDYRINIFLRQKWNDPRLKLPTDFKG--SDTLTVDPKMFKCLWKPDLFFANEK
+tr|C1LH26|C1LH26_SCHJA              TSVDVRNMEYTIDMLLRQAWYDPRLAWDKIEKFRHYTKNIVSPVFKEKIWLPDLFFRNGK
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      DSLEETKMTYSITIYLRQQWNDPRLAYDD------SRELPSNNYLVDKIWVPDLMFGHER
+tr|D1LX31|D1LX31_SACKO              DNINEVTMDYGITIVLRQTWVDTRLEYNAV-----KQHIPPTSELLERIWVPDMFFTNEK
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      T-VDTMLMSMFVSYEFEMTWYDNRLKYLNFKKK--TSLNILPYDQVREVWSPAVSFSNTE
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      YSSTDKGMDYTTTIFLRTRWNDPRLQYNG--AP--NHTITLHSDGVKEVWVPPLFFPDEK
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      PEININTNRVTIEIGILISWKDSRMTFLNLNTAGP---SSLSNEDIRFLWQPNIILSGVV
+tr|D1LX32|D1LX32_SACKO              DTIKETTMDYQVTLYFRQYWQDPRLSFNH------TQAIVLADELRERFWVPDLFFVNVK
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      DSVSESSMDYELTIFLRQAWHDPRLRHNST-----STIVINGGDVMDMFWVPDLFFTNAK
+tr|F1L4V2|F1L4V2_ASCSU              NRVQWHQHDADVDVYLRQQWQDTRLAYEVDSREG---VEEVVVPLNKRVWEPDTYFTNAR
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ------------------------------------------------------------
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              HANFHEVTTEN--KLLR------------------IYKN--GDVYSSVRLSLTLACAMHL
+tr|W8BRS1|W8BRS1_CERCA              SVTFQTMTIPN--HYMW------------------LYKD--KTILYMVKLTLKLSCIMNF
+tr|W8BGG3|W8BGG3_CERCA              IAEIATLTHKF--TSVT------------------LYKN--KTVRYAARMHAIIACQMEF
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      EAKIHQVTLPN--VMLR------------------IGKM--GDILYSMRFTLLLSCYMNF
+tr|W8CCH3|W8CCH3_CERCA              DSSILGTDEKD--VLTS------------------ISPE--GRVVISQRLQATLYCYMNF
+tr|A0A6A7G781|A0A6A7G781_9CRUS      GNHYTVADHEA--TMMVNMHSIPTLGDDSHAEEVEVYPGTQNSVSIRRKYSKTFQCQFDL
+tr|V9KG20|V9KG20_CALMI              NANFHDVTQEN--ILLF------------------IFRS--GDVLVSMRLSVTLSCPLDL
+tr|C1LH26|C1LH26_SCHJA              EGRLHKMTCEN--LLIR------------------IQPN--GEILYSQKITMRMACQMEL
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      KAVYHELTVQN--RFVN------------------IDSN--GTVQYNARISLSLHCEMDF
+tr|D1LX31|D1LX31_SACKO              DSHFHDQTRDN--VLLR------------------ISPS--GEILYSTRLTLTVACHMQL
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      GGHSTVVDIKT--AMFITRLANSTGRDLSVPAELEIYSGFENILSINRKYATLFTCDFNL
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      SGHFHKLTTEN--ILLR------------------IYPD--GTVLHSARFTIKLGCMMKL
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      AADKELLSLAKNPGNMSATAEQPGKRTIIGSYQALSYHGRHVQLVHQKDDVIRLSCNLDL
+tr|D1LX32|D1LX32_SACKO              QADFHYVTRDN--QFFR------------------LHPN--GDILYSLRLSLRLSCHMDL
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      SVTIHSTPKEN--LLLR------------------IDPS--GNVLYSLRLSLVLSCYMFL
+tr|F1L4V2|F1L4V2_ASCSU              ETKGK----DR--RRIV------------------VEPS--GYIRSSEIRSLMVPVHYGS
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ---------------------------------------------------------MEF
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              QNFPMDIQTCKMQLESFGYDMRDLAFQWQEDLP----VQLPPSLTLPQFRILG--YKLG-
+tr|W8BRS1|W8BRS1_CERCA              AIYPHDTQECKLQMESLSHTTDDMIFQWDPTTP----LVVDENIELPQVALIRN--ETA-
+tr|W8BGG3|W8BGG3_CERCA              QLYPMDIQVCPIYIESFSSNNKKVKLRWSDSGV-----TLNPELKLLQYNLGQP-LELE-
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      QDFPFDIQECDSVIASFASTKDMVSYHWYDKNP----IMFPDDLEIAEFDLLSNS--TV-
+tr|W8CCH3|W8CCH3_CERCA              KKFPFDEQFCSTVLESWMYNKTEMVLKWEMYSP----ISFDPEMHLTEYNMQSFWYNETI
+tr|A0A6A7G781|A0A6A7G781_9CRUS      SRYPFDRQGCQMEMTMLSASSRLLQFDEDATA-----AVFSGNRHLIEYTVGDVSL----
+tr|V9KG20|V9KG20_CALMI              TLFPMDTQRCKMQLESFGYTTDDLRFIWQAKDP----VQ-MEEIALPQFDIKQEDIEYG-
+tr|C1LH26|C1LH26_SCHJA              RTFPMDTQECDMNIGSYGYTLEQVSFVWRNVSP----VTLPENLQISEFDPPEV-VRAY-
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      HRFPMDKQQCGLEVESFRYTTKDLMFNWIETEPA---EFKNENLKLPQFELEG--LRIT-
+tr|D1LX31|D1LX31_SACKO              SRFPMDEQHCKLKMESYSYTVDEPVFVWTDYRP----VQHEDDLELQQFDILENET--I-
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      ILYPFDDQYCDMLLQLSSASTAYIRFNVPDSY-----VKFLGNPLLLEYEMSDPEL----
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      ERYPMDEQTCNMEIESFTYTTDDLILQWAPEDDDLEALGVQEGISLPQFTFKDMEPDRS-
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      FLYPFDVQICSLTMQLLGRQA---DVAWDTDKF----DVLNSNITLILFTLLGVKQ----
+tr|D1LX32|D1LX32_SACKO              RQFPMDIQNCGIQIEPYGYTTNDLLLHWSVEKP----VDHDDNMVLAQYKLTG--YRIT-
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      GKFPMDTQECHMQLESYSYNMNELVLKWLTNTTA---VEIHDEVELPQYYLEG--IKEF-
+tr|F1L4V2|F1L4V2_ASCSU              QYPFVSTRTFKLRLSSYNYPIEDVVYLWANSPPTVVPVEVSEELLSSPYEFTEA--IA--
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      YRYPMDKQQCTLEIESSILPSSDLELAWDAEKP----LDLNRNFIVAGFILTN--YSLE-
+                                         . :     :                                              
+
+tr|D2KU21|D2KU21_CIOIN              ----SCTK-VYN-TGSFTCIEVSFILERQMGYYVIQTYVPSALIVILSWVSFWINMEAAP
+tr|W8BRS1|W8BRS1_CERCA              ----DCTQ-VYS-TGNFTCLEVVFTLKRRLVYYVFNTYIPTCMIVIMSWVSFWIKPEAAP
+tr|W8BGG3|W8BGG3_CERCA              ----ESDGYMPEKVGNFSRLTVYFRFERQIGHHLIQTFAPSSLVVMLSWFSFWLGLDAIP
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      ----ETTL-HFA-TGHFSGLIARFTLRRQNGHHILQTYVPTILIVSISWVSFWLDPTAVP
+tr|W8CCH3|W8CCH3_CERCA              VNSDGINLRHGSFVGNYSSLSFTVHLTRETGFYLLDYFLPSMMIVAISWVSFWLQADQSP
+tr|A0A6A7G781|A0A6A7G781_9CRUS      ---------YFHNDRDFAVFFIEVELVRRAGFILMNVYIPSMCLLVISYLTLYFKPAIFQ
+tr|V9KG20|V9KG20_CALMI              ----NCTK-YYKGTGYYTCVEVIFTLRRLVGFYLMGVYAPTLLIVVLSWLSFWINPDASA
+tr|C1LH26|C1LH26_SCHJA              ----DCTSGYSTSTGQYTCLNATFTLQRQLGYWLASTYIPNILIMVVSWLNFWVSLEAIP
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      ----ECTR-VLI-SGNYTCIGLEFLMNRELGYYLLQTYIPSILLTVISWVSFWIDIKSSP
+tr|D1LX31|D1LX31_SACKO              ----EIVH-MYH-TGNFSALELHYTLHRKLGYYIISTFLPSSLLVVLSWVSFWINPEAAP
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      ---------HLGGDWEYSQLIVRVPLSRRFGYAVLNIYTPSFILLVISYVTLHFQPHIFD
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      ----RTTR-HYA-TGNFSYLIAKLRLRRQQEIFIMSAYVPSTLIVIVSWFSFWINPNCEP
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      ---------KFENYGTNTEVTINIGLQRLYGAYILTTYLPCVLLEVIGLSTFALPFSMMS
+tr|D1LX32|D1LX32_SACKO              ----EIDN-DWLVTGSFAHIEVHFVLIRELGYYILQTYVPSILLVVVSWVSFWVDVSAAP
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      ----ANVT-HYM-TGDFTHLGVSFSLVRSLGFYVLQAYVPSSLLVALSWLSVWVEISAAP
+tr|F1L4V2|F1L4V2_ASCSU              ---EDCVG-NYT-VGVYSCISVSITFSGSASEALFRIFLPSIFLIVASWLHFWIFGSWSV
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ----QRMK-SYPETGNFSRIIVRFELQREFEHFLLDIYIPSILFVVTSWLSFWVEIPAAP
+                                                     : .     :       :   : *   .   .   . .      
+
+tr|D2KU21|D2KU21_CIOIN              ARTALGITTVLTMTTQSSGARASLPKVSYVKAIDTWMAVCLLFVFAALLEFAVVNFLSRQ
+tr|W8BRS1|W8BRS1_CERCA              ARVTLGVTSLLTLSTQHAKSQSSLPPVSYLKAVDAFMSVCTVFVFMALMEYCLINIVLSD
+tr|W8BGG3|W8BGG3_CERCA              GRVTLLVTCMLTLVTMFTGLRADIPPVAYVKALDLWMAGCMVSVFAALAEFVVVKVLDVQ
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      GRITLGVTTLLTLTTLATGVRQILPPISYVKAIDVWVGMCMVMVFGALLEFTIVNWLATT
+tr|W8CCH3|W8CCH3_CERCA              PRIMLGTSTMLSFITLSSSQTKALPKVSYIKVSEIWFLGCTFFIFGSMVEFAFVNTIWRR
+tr|A0A6A7G781|A0A6A7G781_9CRUS      VRMLGTLTTLLVMATLFTQASNQLPKSSYFKMVDVWLLSSILIIFTIIVVHAIIDRLQDT
+tr|V9KG20|V9KG20_CALMI              ARVPLGIFSVLSLSSECTSLAAELPKVSYVKALDVWLIACLLFGFASLVEYAVVQVMLNS
+tr|C1LH26|C1LH26_SCHJA              ARVNLSLLTLLGVITQSTSYASSLPRVSYIKAIDIWMIACITFNSGVLLEFAIASHLARR
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      SRVALGITSVLTMITALNGVRGDLPHVSYIKAIDVWFCMCLVFVVTALVEYAIVHYLSSN
+tr|D1LX31|D1LX31_SACKO              ARVALCITTVLTITTMAIAVRDDLPKVSYVTAVDVWMSSCLFFVFGSLVEFAFVNFVSSL
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      VRVMSVLTVLLVTATLFTQVSSSLPKTSYFKMVDIWLLFCIVMNFIIILLHAIVDYTYHV
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      ARVSLVMMALLTLCTQMNGIQAKAPNIAHMKASDVWMSSCLVFVFAALVEYAAVNFISLK
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      DRLNVTVACLIVMAALFTQVSSTLPTAADSKMIDIWMFAHMFLFAFIFLSHVFLNRFRNP
+tr|D1LX32|D1LX32_SACKO              ARVALGITTVLTFTTMSSGVSSQLPKVVYAKAIDVWLATCLIFVFAALLEFALANYLHAL
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      ARVALGVTTVLALVTQATWLRSQLPKIAYATAIDVWMVTCQVLVFLALLEYSVVYYLYSF
+tr|F1L4V2|F1L4V2_ASCSU              PRTVSAAVPFFIFAALLVFYPQPYLASEGVGSIQVWLLFCLTITFLSLVEYFIVICCGIR
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ARVTLGMTTMLTLVTSEKVIRSKLPKVSYFHALDIWNVVCTGFVFASLVEYALVNYIYHK
+                                     *       .:   :                  : :           :  .         
+
+tr|D2KU21|D2KU21_CIOIN              QQRLIKV-NM--------------------------------------------GW----
+tr|W8BRS1|W8BRS1_CERCA              TPIPKPI-AYPPKP--VPEGAKKEP-EKPPA-----------------------------
+tr|W8BGG3|W8BGG3_CERCA              YQYQVNK-IPKVLP--MRIS----------N-----------------------------
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      KVSSRRK-RAS-----ILSSSL-------------------SSS-------SSDIY----
+tr|W8CCH3|W8CCH3_CERCA              KENVELKKVNSKYI--VKASLTPRPTRRDMN--KNNLSRTRSCS-------SLDNITSST
+tr|A0A6A7G781|A0A6A7G781_9CRUS      PKPEIPKNPLSAIIVKPDMSQVKTPMRKPVAPTSPTCSIKSNTPSKSKGSRVPSRLSNSS
+tr|V9KG20|V9KG20_CALMI              PKRIEAE-RIR-----IQNRQKA-K-EQAIAAEA-------KAS-------G--NW----
+tr|C1LH26|C1LH26_SCHJA              QKVSEWQVEVRKLV--RREL----------VKWCSACQLQYAQR-------GPSALSAYS
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      KLHFWFS-EK-----------KA----SRVSKEK-------KQS-------G--------
+tr|D1LX31|D1LX31_SACKO              RKNEKKK-KTD-----LK-----------INVEK-------TKD-------G--ND----
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      ERSNITYWSKKTMTEVKPLPELKTLHDKRMAAYS----EDEEPP------TIPFDI----
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      IKMQNQN-EQ--------------------------------------------------
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      TLRTGH--GVFNFP---------------KDVRTGFCKGRYSRDSS-----GVNKA----
+tr|D1LX32|D1LX32_SACKO              GQDRQTL-SNF-----FKGQNKKEL-ADSIDAYD-VMETEFNRG-------SADTI----
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      EKGQYAE-RRK-----KREY------RRTIRMRENSMKD--AHK-------GENQM----
+tr|F1L4V2|F1L4V2_ASCSU              RTVRYTN-GT------LNES------ESPIT-----------------------------
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      DNRRKRK-KTL-----KRTGSAV-S-VSTIA----------SEA-------GSSPM----
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              ----------------------------------LIKQKSYRVTEHRSAPAPPSE-----
+tr|W8BRS1|W8BRS1_CERCA              ------------------------------------PTPAPAVTPAKVVPDEKIE-----
+tr|W8BGG3|W8BGG3_CERCA              ------------------------------------------MEKGQCPTVASWEGGAVR
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      --------------------------------------------------IGAVD-----
+tr|W8CCH3|W8CCH3_CERCA              ESVLKGHSNPGFNNY--------LTVHNLPI----------------------------I
+tr|A0A6A7G781|A0A6A7G781_9CRUS      EDELKQKS-----------------VM-------SSPSH--SMHDAQELVTSFSRLGMVE
+tr|V9KG20|V9KG20_CALMI              ----------------------------------VKPS-SKNTVNGTGTPVHIST-LQVG
+tr|C1LH26|C1LH26_SCHJA              A---SSRSNDKVTEYINSVAAAAFAIQNSPVLERVSPQMSVRLTK-----SGLMSMPNIK
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      ---------------------------------------------DSCLTLTIIDKPMKP
+tr|D1LX31|D1LX31_SACKO              ----------------------------------LADA-----V-EKCLPQ------AIN
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      --RLKTM------------------VM-------LSK----AFVLMIFVVFSFCYWGYIL
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      ---------------------------------------SLEMVN-RAVSKNPST-----
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      ---------------------------------AVSPR------------------PAAG
+tr|D1LX32|D1LX32_SACKO              ----------------------------------LSDDDGLSTKNG--IRNGVYT---IE
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      ----------------------------------TSPKVSARTV--------SYE-----
+tr|F1L4V2|F1L4V2_ASCSU              -----------------------------------------------------------A
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ----------------------------------LIAKNSEKLEP------GMPN-----
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              -----DSG-----DDATR-YC-IVGRLPIK------E-----------------------
+tr|W8BRS1|W8BRS1_CERCA              --KIEKI-FDEMTKNRRVVHSRRVVRPPLDADGPWIPRQESR------II----------
+tr|W8BGG3|W8BGG3_CERCA              SRK--------------------STQTPT------------------------------T
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      -----DSD------DAAG-WGGIGASYPPV------------------N-----------
+tr|W8CCH3|W8CCH3_CERCA              TTECADTASVTSERHSNG----TDHVVNIDKDGGYDV---------------------NG
+tr|A0A6A7G781|A0A6A7G781_9CRUS      KEGCSAST---SANDSNR------KRYNNKIKDNFS--------TGSPAGVHSTEDNKNT
+tr|V9KG20|V9KG20_CALMI              ENRCKKVCTSKSDLRSND-FS-IVGSLPRD------FELSNYDCYGKPIEV------NNG
+tr|C1LH26|C1LH26_SCHJA              SKKSERA--------S---------------KGTFYELVANDSAL-------------TA
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      INGCSDIDNQ----DENK-VW-V-------------------------------------
+tr|D1LX31|D1LX31_SACKO              IEKCERCG----------------------------------------------------
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      F-----------------------------------------------------------
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      -----ESDFETSVSKSNQ-YD---------------------------------------
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      DEKCIPKQTE----N---------------------------------------------
+tr|D1LX32|D1LX32_SACKO              NDQSARKKFKDFTSKRKN-FA-QNRRYSRDQRGNVQRRGSNYKLATALAYQ------KNG
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      -----DD------GDSNN-VV--VTETPVN----------------------------ST
+tr|F1L4V2|F1L4V2_ASCSU              AREAVEV-----------------------------------------------------
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      -KKA-----------------------------------VSISCLAEMQTV-------NA
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              --------------EPPIK---------------------------QSIAEDYK--KKAL
+tr|W8BRS1|W8BRS1_CERCA              ---LTPTIA---PPPPPPPPE--------PEP-PK----PK-----LTPQQERL--KRAI
+tr|W8BGG3|W8BGG3_CERCA              PGQTSLQGN---GGPPKPARR--------QSLL-------SVAWT-DTDTGVEK--IMWR
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      ---TQSTGS---GKPPTV---------------------------------THM--KAAR
+tr|W8CCH3|W8CCH3_CERCA              KDKEEM---------AD--------------------------HT-TFTTMTPQ--EIAM
+tr|A0A6A7G781|A0A6A7G781_9CRUS      VGRTYREKTKMRKKNSFVAMERAEFDDDDDNDFDTSKLRRRIEWRFWKWSCKDV--DKCR
+tr|V9KG20|V9KG20_CALMI              LGKLQSKNN---KKPPPAK---------------------------P----VIP--AAAK
+tr|C1LH26|C1LH26_SCHJA              LDTTQK-DA---LLPPC-----------------------------EPQRIKKP--ASMS
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      -----RGNC---SKPQPET---------------------------Y---------DIGK
+tr|D1LX31|D1LX31_SACKO              ----------------------------------------------THASRYWR--KRAL
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      ------------------------------------------------------------
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      --------------------------------------------------VICH--VRPQ
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      ---------------------------------------PHKS---WNSRLTPEVLNQVL
+tr|D1LX32|D1LX32_SACKO              IETN----------LSDSL---------------------------YAEGMRIK--NKAI
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      AGRVRPRLK---ERPPLVRQE--------TQVLTT----AELIYA-SNDRTDYL--CLAL
+tr|F1L4V2|F1L4V2_ASCSU              --------------------------------------------A-YETKCANF--KQSN
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      ID---V-GW---IR--------------------------------DPVKLTPR--DIAN
+                                                                                                
+
+tr|D2KU21|D2KU21_CIOIN              AIDTLSRIIFPTTFLIFNIVYWLSYKIANNDKEFYMKGAIEYWSD
+tr|W8BRS1|W8BRS1_CERCA              YIDRTSRVLFPALFASLNGIYWVIFYEYL----------------
+tr|W8BGG3|W8BGG3_CERCA              EIDKVSRAVFPILFFVFVLLYWPILLMKSS---------------
+tr|A0A2P2IAN3|A0A2P2IAN3_9CRUS      IVDRISRAMFPAIFFLFNIFYWPYYIFMQYGETSR-----EMFS-
+tr|W8CCH3|W8CCH3_CERCA              WIDRRSRFLFPVMFLAFNALYWTFVYCF-----------------
+tr|A0A6A7G781|A0A6A7G781_9CRUS      TMIVMSRIVILFIVGVFNIVYWSIALGPK----------------
+tr|V9KG20|V9KG20_CALMI              RIDLYARALFPFCFFFFNVIYWSAYL-------------------
+tr|C1LH26|C1LH26_SCHJA              KIDSYSRFVFPACFLLYNCFYWLYYLVIVKHK-------------
+tr|A0A0U2UNB3|A0A0U2UNB3_SACKO      KIDRVCRIAFPLSFLIFNICYWSYYKIFEFDQAHLTFEE------
+tr|D1LX31|D1LX31_SACKO              FVDKVARIVFPLLYFIFNIMFWPIYLREGMPSWLIND--------
+tr|A0A6A7FW06|A0A6A7FW06_9CRUS      ---------------------------------------------
+tr|A0A0U2U2P0|A0A0U2U2P0_SACKO      RIDYYSRIVFPITFMVFNVFYWLIYLC------------------
+tr|A0A6A7G4D8|A0A6A7G4D8_9CRUS      GILTC------STYIVLCGVFFLVVYRERIAKL-------KQFMD
+tr|D1LX32|D1LX32_SACKO              RIDMISRFLFPLLFLVFNAIYWPMYMTDLIFTRNDTTT-------
+tr|A0A0U2UAR0|A0A0U2UAR0_SACKO      RIDRFSRIFLPLIFCILCILYWSFYPIQKHSFSVI----------
+tr|F1L4V2|F1L4V2_ASCSU              GVDIIARILFPLVFFIFLIIFLILYLI------------------
+tr|A0A2L2YIQ4|A0A2L2YIQ4_PARTP      GIDRKCRYIFPILFLVFNVFYWFVLISLT----------------
+                                                                                 

@@ -1,0 +1,16 @@
+# hmmbuild :: profile HMM construction from multiple sequence alignments
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# input alignment file:             LGIC_clustal/P2XR.clu
+# output HMM file:                  LGIC_hmmer/P2XR.hmm
+# name (the single) HMM:            P2XR
+# output directed to file:          LGIC_hmmer/P2XR.out
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# idx name                  nseq  alen  mlen eff_nseq re/pos description
+#---- -------------------- ----- ----- ----- -------- ------ -----------
+1     P2XR                    12   781   474     1.53  0.590 
+
+# CPU time: 1.28u 0.00s 00:00:01.28 Elapsed: 00:00:01.50

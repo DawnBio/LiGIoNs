@@ -1,0 +1,66 @@
+>Cluster 0
+0	936aa, >tr|A0A6C0PNH8|A0A6C... at 93.80%
+1	957aa, >tr|A0A6C0PNB7|A0A6C... *
+>Cluster 1
+0	923aa, >tr|A0A6C0PNQ7|A0A6C... *
+>Cluster 2
+0	501aa, >sp|Q708S7|ASI1A_DAN... at 51.30%
+1	529aa, >sp|Q708S6|ASI1C_DAN... at 50.28%
+2	530aa, >sp|Q6X1Y6|ASIC3_MOU... at 42.08%
+3	533aa, >sp|O35240|ASIC3_RAT... at 42.21%
+4	531aa, >sp|Q9UHC3|ASIC3_HUM... at 41.62%
+5	557aa, >sp|Q708S8|ASI1B_DAN... at 41.83%
+6	524aa, >tr|B5X1T7|B5X1T7_SA... at 50.38%
+7	789aa, >tr|A0A6F9D6S5|A0A6F... *
+8	762aa, >tr|A0A6F9D7H8|A0A6F... at 53.94%
+9	563aa, >tr|U3EW69|U3EW69_CA... at 42.98%
+10	529aa, >tr|Q1XA78|Q1XA78_SQ... at 48.77%
+>Cluster 3
+0	526aa, >sp|Q6NXK8|ASIC1_MOU... at 43.35%
+1	512aa, >sp|Q925H0|ASIC2_MOU... at 41.02%
+2	647aa, >sp|Q96FT7|ASIC4_HUM... *
+3	527aa, >sp|Q1XA76|ASIC1_CHI... at 43.07%
+4	526aa, >sp|P55926|ASIC1_RAT... at 43.35%
+5	512aa, >sp|Q62962|ASIC2_RAT... at 40.82%
+6	512aa, >sp|Q16515|ASIC2_HUM... at 40.62%
+7	528aa, >sp|P78348|ASIC1_HUM... at 42.99%
+8	539aa, >sp|Q708S4|ASI4A_DAN... at 58.81%
+9	558aa, >sp|Q708S3|ASI4B_DAN... at 56.45%
+10	522aa, >sp|Q7T1N4|ASIC1_OPS... at 42.34%
+11	539aa, >sp|Q9JHS6|ASIC4_RAT... at 93.32%
+12	533aa, >sp|Q708S5|ASIC2_DAN... at 40.71%
+13	539aa, >sp|Q7TNS7|ASIC4_MOU... at 94.06%
+14	512aa, >tr|Q0VC38|Q0VC38_BO... at 40.62%
+15	526aa, >tr|G9DCX2|G9DCX2_HE... at 42.97%
+16	528aa, >tr|F7H4L2|F7H4L2_MA... at 42.99%
+17	537aa, >tr|A0A060DAJ9|A0A06... at 59.96%
+18	647aa, >tr|F6RUX3|F6RUX3_CA... at 97.22%
+19	495aa, >tr|W5UC55|W5UC55_IC... at 42.42%
+20	520aa, >tr|D3YYS9|D3YYS9_MO... at 97.69%
+21	512aa, >tr|F7I932|F7I932_CA... at 40.62%
+22	528aa, >tr|K7B9U4|K7B9U4_PA... at 42.99%
+23	528aa, >tr|U3DXY6|U3DXY6_CA... at 42.99%
+24	514aa, >tr|Q1XA79|Q1XA79_LA... at 43.00%
+25	528aa, >tr|U3FV84|U3FV84_CA... at 42.99%
+26	542aa, >tr|Q1XA77|Q1XA77_SQ... at 41.88%
+>Cluster 4
+0	616aa, >tr|A0A5J6BSU1|A0A5J... *
+>Cluster 5
+0	559aa, >tr|A0A5J6BV03|A0A5J... *
+>Cluster 6
+0	548aa, >tr|A0A5J6BSS6|A0A5J... *
+1	545aa, >tr|A0A5J6BSM6|A0A5J... at 41.65%
+>Cluster 7
+0	523aa, >tr|A0A5J6BTF2|A0A5J... *
+>Cluster 8
+0	515aa, >tr|A0A5J6BWR3|A0A5J... *
+>Cluster 9
+0	505aa, >sp|Q9NY37|ASIC5_HUM... *
+1	495aa, >sp|Q9R0W5|ASIC5_RAT... at 78.59%
+2	495aa, >sp|Q9R0Y1|ASIC5_MOU... at 78.59%
+>Cluster 10
+0	492aa, >tr|A0A5J6BVG3|A0A5J... *
+1	485aa, >tr|A0A5J6BSQ9|A0A5J... at 47.01%
+2	492aa, >tr|A0A5J6BSR6|A0A5J... at 65.04%
+>Cluster 11
+0	263aa, >tr|F8VSK4|F8VSK4_HU... *

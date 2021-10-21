@@ -1,0 +1,64 @@
+GABAA.uniprot
+16361
+77
+ALL PFAM ID GABAA.uniprot
+(' PF02931', ' Neur_chan_LBD')
+(' PF02932', ' Neur_chan_memb')
+Glycine.uniprot
+5298
+17
+ALL PFAM ID Glycine.uniprot
+(' PF02931', ' Neur_chan_LBD')
+(' PF02932', ' Neur_chan_memb')
+P2X.uniprot
+6227
+25
+ALL PFAM ID P2X.uniprot
+(' PF00864', ' P2X_receptor')
+IP3.uniprot
+5511
+14
+ALL PFAM ID IP3.uniprot
+(' PF01365', ' RYDR_ITPR')
+(' PF08454', ' RIH_assoc')
+(' PF02815', ' MIR')
+(' PF08709', ' Ins145_P3_rec')
+(' PF00520', ' Ion_trans')
+Acid.uniprot
+5473
+23
+ALL PFAM ID Acid.uniprot
+(' PF00858', ' ASC')
+Nicotinic.uniprot
+21849
+116
+ALL PFAM ID Nicotinic.uniprot
+(' PF02931', ' Neur_chan_LBD')
+(' PF02932', ' Neur_chan_memb')
+ZAC.uniprot
+384
+2
+ALL PFAM ID ZAC.uniprot
+(' PF02931', ' Neur_chan_LBD')
+(' PF02932', ' Neur_chan_memb')
+Ionotropic.uniprot
+29398
+90
+ALL PFAM ID Ionotropic.uniprot
+(' PF01094', ' ANF_receptor')
+(' PF10562', ' CaM_bdg_C0')
+(' PF10613', ' Lig_chan-Glu_bd')
+(' PF00060', ' Lig_chan')
+(' PF10565', ' NMDAR2_C')
+(' PF01094', ' ANF_receptor')
+5ht3.uniprot
+2475
+10
+ALL PFAM ID 5ht3.uniprot
+(' PF02931', ' Neur_chan_LBD')
+(' PF02932', ' Neur_chan_memb')
+Epithelial.uniprot
+6902
+36
+ALL PFAM ID Epithelial.uniprot
+(' PF00858', ' ASC')

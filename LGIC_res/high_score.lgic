@@ -1,0 +1,137 @@
+ID sp|G5ECT0|PBO5_CAEEL
+RS sp|G5ECT0|PBO5_CAEEL,LGIC,nAchR
+AH nAchR(290.2),5HT3(140.5),GABAA(133.2),ZACs(118.0),Glycine(97.2)
+TP    DOM           nAchR_1      66     505   289.9
+TP   PFAM    Neur_chan_memb     306     422    55.7
+TP   PFAM     Neur_chan_LBD      68     272   157.3
+SQ	509  
+      1 mtrlsilqhlltflilskinatsttesyfdsseeapnvllnhlnnesegeeltqindtqp 60   
+     61 afvpgSSKRLTEYLLSRHNLNAPPDGLLYVEYELELVHILGIDELKQTMTVLIYVDEHWV 120  
+    121 DPSLTWDPALFGGITKTWIPLDKIWVPDIIVFNMVKSNRLAHEDllsAVRAPARIHYNGT 180  
+    181 IVASHPAVHTVSCEINIRHFPLDDQRCAIEIASWAYGQEKIRLHAHTDHSLEHYKRNEEW 240  
+    241 HLLNLNVSEEKYEHEGVEVSEVKFEISLKRRPLFYMVTLTFPSYIMCAISVVGLFARFST 300  
+    301 tgerEERFTLGVTAILTMAVLSLVVSEKVPHSSTHVPLLVAYFLFNMVIVSIAAMTTGIV 360  
+    361 MKVHRLGRYGDEPSDFWMRCFLLKPVFRTSNRRKYRMNPEEptqvilvseakngevltkk 420  
+    421 stelngtvvkeimlssrlealeeyirkmvnRCETIKWELDEIDAAENIELVRRRSTNGYV 480  
+    481 RISERLDILFMFLFLSTVTIPVAVLfylt                                509  
+AN	509  
+      1 ------------------------------------------------------------ 60   
+     61 -----+ krL ++Ll++ + ++ P   + V+  l l +il +de +q++t+ ++++  W  120  
+    121 D+ L+W+p+ +ggit++ +p d+iW PDi+++N + +++  ++     ++++++++++G+ 180  
+    181 ++ + pa++++sC+i++++FP D Q+C ++++sW y ++++ l  ++++ l+ y  n eW 240  
+    241 +ll+ +++++ky +  ++ +++ f++ l+R+plfy+v+l +P+++++ +++++++   ++ 300  
+    301      e+++lg+t+ l+++v+ l+v+e++P++s++vPl++ y+lf++v+vs++ ++t +v 360  
+    361 + +h+ +  + e++ ++ ++fl k       +r  ++++++                    420  
+    421                                 e+i+ el++i +  + e  +++  + +  480  
+    481  ++  +D lf+++f+ ++ i  +++----                                509  
+//end
+ID sp|P34886|MEC10_CAEEL
+RS sp|P34886|MEC10_CAEEL,LGIC,ENaCs
+AH ENaCs(283.7),ASICs(256.7)
+TP    DOM           ENaCs_1      87     186    54.4
+TP    DOM           ENaCs_2     389     719   227.9
+TP   PFAM               ASC     100     696   387.6
+SQ	724  
+      1 mnrnprmskfqpnprsrsrfqdetdlrslrsfktdfsnylasdtnflnvaeimtsyayge 60   
+     61 snnahekeiqcdlltenggieidptrLSYRERIRWHLQQFCYKTSSHGIPMLGQAPNSLY 120  
+    121 RAAWVFLLLICAIQFINQAVAVIQKYQKMDKITDIQLKFDTAPFPAITLCNLNPYKDSVI 180  
+    181 RSHDSIskilgvfksvmkkagdsssealeeeeeteydmngitiqakrkkrgagekgtfep 240  
+    241 ansacecdeedgsneceerstekpsgdndmcicafdrqtndawpchrkeqwtnttcqtcd 300  
+    301 ehylcskkakkgtkrselkkepciceskglfcikhehaamvlnlweyfgdsedfseiste 360  
+    361 erealgfgnmtdevaivtkakeniifamSALSEeqriLMSQAKHNLIHKCSFNGKPCDID 420  
+    421 QdFELVADPTFGNCFVFNHDREIFKsSVRAGPQYGLRVMLFVNASDYLPTSEAVGIRLTI 480  
+    481 HDKDDFPFPDTFGYSAPTGYISSFGMRMKKMSRLPAPYGDCVEDGATSNYIYkGYAYSTE 540  
+    541 GCYRTCFQELIIDRCGCSDPRFPSIGGVQPCQVFNKNHRECLEKHTHQIGEIHGSFKCRC 600  
+    601 QQPCNQTIYTTSYSEAIWPSQALNISLGQCEKEAEECNEEYKENAAMLEVFYEALNFEVL 660  
+    661 SESEAYGIVKMMADFGGHLGLWSGVSVMTCCEFVCLAFELIYMAiaHHINQQRIRRRENa 720  
+    721 aney                                                         724  
+AN	724  
+      1 ------------------------------------------------------------ 60   
+     61 --------------------------l+  e ++  l+ +c +t+ HG+ ++ ++ + l+ 120  
+    121 +a w+ l l+++   + q   ++++Y + ++   ++ ++++ +FPa+T+Cn nP++ s i 180  
+    181 + + + ------------------------------------------------------ 240  
+    241 ------------------------------------------------------------ 300  
+    301 ------------------------------------------------------------ 360  
+    361 ----------------------------+ l++     ++++++++i  C+fng++c+++ 420  
+    421 + f  + +p++GnC++fN++ +i+  ++++G ++GL ++L+v++++ylp s++ G+r+++ 480  
+    481 h++d++Pf+++ g ++p+G+ +s ++r + + rl++pygdc ed+   +++y    Y+ + 540  
+    541  C + C+q+l++ +CgC++   P   g + C+  +++  +C ++  +++   +    c+C 600  
+    601  +pCn++ Y++s s a Wps++ + +  + ++e e   +  ++n a L+++++ ln+  + 660  
+    661 +es+ay++v++++++Gg lglw gvSv++  E++ l ++l+ ++  +++ +   +r+++- 720  
+    721 ----                                                         724  
+//end
+ID sp|Q10025|DEL10_CAEEL
+RS sp|Q10025|DEL10_CAEEL,LGIC,ASICs
+AH ASICs(239.8),ENaCs(120.3)
+TP    DOM           ASICs_1      76     852   239.4
+TP   PFAM               ASC      81     437   162.6
+SQ	1069 
+      1 mvrmaerlaenfipeanqrnenepaysrykrvgqnrsrlnsraslgssmgrritlietds 60   
+     61 gvievesdkqfldafKDANMDAVHHLNAASPVTRGLWCMIIIAFVILVLVQCYSQIKLYI 120  
+    121 SEPVATNIEAEYPSKISFPTVAICNNNQFRLTYLTGGRIMNRRSKSISGSLLSTGHDVES 180  
+    181 VFDTVLRKSWDMDAVKFLRSAAHWKSRMILGCTWpNGTSCKLSDFKAVWTTTGLCWAINT 240  
+    241 DPHNPYEVTGSGEGHGLRLLLNVESYERVDACTKHfrtKTLPGLKILIYNQTDIPDSSMN 300  
+    301 GVNVPSGYSMDIPFKMQHRSKLTGVHCIEENdEQieaSTDFNNpENIRTCTLRRYMTEVE 360  
+    361 NSCHCTLRRAYtsnstdVKMKACNVDQYFGCAQKAMQRIREEGTASTCLPPCKSIDYTAW 420  
+    421 QDMNRLPQNLMPALIEEQEEDDEDDVEQEELDENVSfstvsggetfscedsaylddkqvm 480  
+    481 rikrdahrayemqarhqediflrsrrliarlrnainsierykwgwhydtfsgvadrlsnl 540  
+    541 tcfsnfserhrdiisilesrpitseekkanqmfflldetafnrnatrymsvgdlksrygd 600  
+    601 kvddvaeeiavilrimeklwhvfmpdsyirtmtgdfsrmdriielmnqyelnklqrrawa 660  
+    661 ekmqsrqmkhffeddfyesyyqplikdldttlvkqideveadwpkveyylqrgsagktga 720  
+    721 imffgdgnkdnrqkfeklivemhecasgkmrkeagkmlssfkksyrelqaaygklfkeel 780  
+    781 pdylenfqfGNKFVGDNFAMVNIFLHRMNLEVWSQDRTYGFWSLACDIGGALGLFLGASL 840  
+    841 LTIIEIVYLCIQyglcgkrarnmkcipmdaltrqmkkvatcscckkpieksrepiykkks 900  
+    901 qsyqrrftaddedqgdkfrsrasseeskrrkniwaqmndpsgnstltpseiknfldqvqr 960  
+    961 nsqppsyhddhhpedhyyyndpnyltisppsdrpednregstsgyyssprappqanprde 1020 
+   1021 spipdtepisvsefsdalapplfktpprerrtrkeqkideedddkhsyv            1069 
+AN	1069 
+      1 ------------------------------------------------------------ 60   
+     61 ---------------+++ +  ++h+  ++ ++r lW ++++a ++l+lvq++ +i  y+ 120  
+    121 s p+ ++++ ey +++ FP+V iCN N+fr + ++   ++   +  ++    s   +++s 180  
+    181 + + + ++  d+d +++lr+++h ++ mil Ct+ +g+ C+ ++f  v t  G C+  nt 240  
+    241 + +++ ++++sg  +GL+lllnve ye ++  +++   +   G+k++i +q++ p+   + 300  
+    301 g++vp G+   +  k+++ ++L+     +++ ++     +f++   +  C ++   + v  360  
+    361 + C+C + +         +++ C+  +++ C+ +++++++++  ++ C  +C+++ y +  420  
+    421   + ++p++ +  l++++ + +    + ++l+ ++s                         480  
+    481                                                              540  
+    541                                                              600  
+    601                                                              660  
+    661                                                              720  
+    721                                                              780  
+    781           ++++ +N+  +++f +++n+e   q   y+f +l +diGG+LGLf+GaS+ 840  
+    841 LTi+Ei+   ++------------------------------------------------ 900  
+    901 ------------------------------------------------------------ 960  
+    961 ------------------------------------------------------------ 1020 
+   1021 -------------------------------------------------            1069 
+//end
+ID sp|Q86LG1|PPK28_DROME
+RS sp|Q86LG1|PPK28_DROME,LGIC,ENaCs
+AH ENaCs(231.3),ASICs(180.1)
+TP    DOM           ENaCs_1      31     129    56.5
+TP    DOM           ENaCs_2     137     529   178.4
+TP   PFAM               ASC      43     509   298.7
+SQ	606  
+      1 mrtltesrrrqsgssgckkdsesdddentiCSRAAIKRSVVYYLKNSTLHGLKYIAEESI 60   
+     61 TIPERIFFGLAFVLVVILSVFFISNVYVKWSASPIIIStsakqKLTSNMPFPAITICNLN 120  
+    121 QALLSKVDRigrtstnFSLLMGLCDQGGDTTISYIGTWKYFKAILVDVAQPCEKMLLYCS 180  
+    181 FGSREEDCSWLFTSILTDDGLCCNFNALHPSYLIrnysddvrletahpntryelidwtpe 240  
+    241 kgyarnlpefyfprTSGGTGIRMGLTVVLNASIAEYYCTKSMSVGFKVLVHNPAELPKVS 300  
+    301 NYGFVVTAGREARIPIEPVYEDALPTIRSIKKSVRRCLFSDENDlayYRTYSRKNCELEC 360  
+    361 EAKLLLRECSCVLYYLPRIDPLaRVCGPNDNQCTDRVQTEIESsLTNLSCENCWPGCFEL 420  
+    421 TYRATLSTASIVSDPRFQAgeNLPEYIFHGPYSNASEISILHFYYMTNIFRSTTKSEMFG 480  
+    481 FTEFLSNTGGLLGLFMGFSIFSVIEIFFYItVRPYCASRTLRQRHKRRLeqlswltpirm 540  
+    541 pvrralrrnrggllrnppppaysdlqkfrgkldkpetckrklwrtlqvrpvvdradeelp 600  
+    601 typyld                                                       606  
+AN	606  
+      1 ------------------------------   + +k+++v+y kn++ HG+k++ ++   60   
+     61  ++e++++ l +++vv++ ++++ + Y++w  sp+i+s     +   +++FPa+T+Cn n 120  
+    121    +sk+ +-------+ +++ lc++  ++ +s +  w+ +++il ++ ++ ++++l+C+ 180  
+    181 f++++ ++   +t   ++ G C  fN+++ + +                            240  
+    241               ++  +G++ GL+++L+    ey+   s + G++vlvh+p e P v+ 300  
+    301 + g+ v +G e+ i + + + + l+ +++  +  r++++++e      + Y+++nC  +C 360  
+    361  ++l++++C+C+ + +P+      +C+ ++++C +r+q e++   ++ + +nC + C el 420  
+    421 +Y+ + s+a   s    ++  +l  + ++    + ++++ L  y+    +r+ ++s++++ 480  
+    481  +e+lsn Gg+lgl+mg+S+ s++E+  ++ ++    ++ l++  +r+ ----------- 540  
+    541 ------------------------------------------------------------ 600  
+    601 ------                                                       606  
+//end
