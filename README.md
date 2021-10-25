@@ -12,7 +12,7 @@ This repository contains a python script PredictLGIC.py and the necessary files 
 # Requirements
 Python - 3.7.10  
 Biopython - 1.78  
-Numpy - 1.19.2
+Numpy - 1.19.2  
 HMMER - 3.3.2
 
 For recreating the pHMMs also needed:  
