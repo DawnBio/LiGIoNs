@@ -36,7 +36,7 @@ hmmscan_path = "/usr/local/bin/hmmscan"
 hmmsearch_path = "/usr/local/bin/hmmsearch"
 
 #pHMM libraries
-LGIClib = "allLGIChmms" #Required for LGIC prediction, name of LGIClib composed of 4 files (.h3*)
+LGICslib = "allLGIChmms" #Required for LGIC prediction, name of LGICslib composed of 4 files (.h3*)
 pfamPath = "pfamHMM/" #Optional, required for Pfam annotation
 
 #Results directory
@@ -138,9 +138,9 @@ def predict(infile,outfile): #infile=FASTA input, outfile=detailed results
             proteinToFasta(x,seq_path) #save sequence FASTA to file
             ho.write("ID %s\n" % x.id) #Write Results: ID line
             search_path = "%s%s.tmp.txt" % (path,fileName) #temporary storage of hmmscan and hmmsearch results
-            #Use hmmscan to scan query sequence against LGIClib (library of pHMMs one per subfamily)
+            #Use hmmscan to scan query sequence against LGICslib (library of pHMMs one per subfamily)
             try:
-                run_hmmscan = subprocess.run([hmmscan_path, "-o", search_path, LGIClib, seq_path])
+                run_hmmscan = subprocess.run([hmmscan_path, "-o", search_path, LGICslib, seq_path])
                 if run_hmmscan.returncode != 0:
                     raise Exception()
             except Exception  as ex: #print error message and exit if hmmscan fails
