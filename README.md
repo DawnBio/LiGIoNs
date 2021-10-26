@@ -10,11 +10,14 @@ The method is available online at http://bioinformatics.biol.uoa.gr/ligions/.  (
 This repository contains a python script PredictLGIC.py and the necessary files to run LiGIoNs locally, a python script profileMaker.py that can be used to create the pHMMs and the predicted LGICs that resulted from the application of LiGIoNs on all UniProtKB reference proteomes (proteome_predicted_LGICs.gz).
 
 # Requirements
+*These versions were used during production and testing*  
 Python - 3.7.10  
 Biopython - 1.78  
 Numpy - 1.19.2  
-HMMER - 3.3.2
+[HMMER](http://hmmer.org/) - 3.3.2
 
-For recreating the pHMMs also needed:  
-CD-HIT - 4.7  
-Clustal Omega - 1.2.4  
+*For recreating the pHMMs the following are also needed:*  
+[CD-HIT](http://weizhong-lab.ucsd.edu/cd-hit/) - 4.7  
+[Clustal Omega](http://www.clustal.org/omega/) - 1.2.4  
+
+# Usage
