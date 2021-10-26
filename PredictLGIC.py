@@ -36,7 +36,7 @@ hmmscan_path = "/usr/local/bin/hmmscan"
 hmmsearch_path = "/usr/local/bin/hmmsearch"
 
 #pHMM libraries
-LGIClib = "allLGIChmms" #Required for LGIC prediction
+LGIClib = "allLGIChmms" #Required for LGIC prediction, name of LGIClib composed of 4 files (.h3*)
 pfamPath = "pfamHMM/" #Optional, required for Pfam annotation
 
 #Results directory
