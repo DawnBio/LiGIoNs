@@ -46,8 +46,8 @@ if not os.path.isdir(path): #check if directory for results does not exist
 
 #Set output file names
 if args.output: #Check if (optional) output file name is provided
-    outfile = "%s/%s.lgic" % (path,output) #file to write detailed results for all sequence
-    outfileBrief = "%s/%s.lbrief" % (path,output) #file to write brief results for all sequences
+    outfile = "%s/%s.lgic" % (path,args.output) #file to write detailed results for all sequence
+    outfileBrief = "%s/%s.lbrief" % (path,args.output) #file to write brief results for all sequences
 else: #otherwise use the input file name
     outfile = "%s/%s.lgic" % (path,proteinInputFileWithoutExt) #file to write detailed results for all sequence
     outfileBrief = "%s/%s.lbrief" % (path,proteinInputFileWithoutExt) #file to write brief results for all sequences
