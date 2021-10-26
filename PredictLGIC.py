@@ -237,7 +237,7 @@ def predict(infile,outfile): #infile=FASTA input, outfile=detailed results
                                     out = "TP   %4s   %15s   %5s   %5s   %5s\n" % ("PFAM",prf,st,en,bsProf)
                                     ho.write(out) #Write Results: TP lines
                 else:
-                    print("PfamLGICLib not found at ", pfamPath)
+                    print("PfamLGICslib not found at ", pfamPath)
                 seqOut(ho,seqF,"SQ") #Write Results: SQ lines
                 seqOut(ho,annoF,"AN") #Write Results: AN lines
                 ho.write("//end\n")
