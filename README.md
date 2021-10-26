@@ -21,3 +21,10 @@ Numpy - 1.19.2
 [Clustal Omega](http://www.clustal.org/omega/) - 1.2.4  
 
 # Usage
+First make sure that PredictLGIC.py, LGICslib (4 files allLGIChmms.h3*) and PfamLGICslib (pfamHMM directory), if Pfam annotation is wanted, are in the working directory. The protein sequence(s) of interest should be in a file in FASTA format.  
+
+*Run the script against one or more protein sequences in FASTA format:*  
+`python PredictLGIC.py -i my_input_filename`  
+The output is two files, one with the full results (.lgic) and one with the brief results (.lbrief). By default these files are named after the input file.  
+*To specify output filename:*  
+`python PredictLGIC.py -i my_input_filename -o my_output_filename`  
