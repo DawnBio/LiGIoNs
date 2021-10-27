@@ -11,7 +11,7 @@ The method is available online at http://bioinformatics.biol.uoa.gr/ligions/.  (
 - **PredictLGIC.py** and the necessary files to run LiGIoNs locally
 - **profileMaker.py** that can be used to create the pHMMs and the resulting directories
 - **negative test sets** used for evaluation
-- **predicted LGICs** from the application of LiGIoNs on all **UniProtKB reference proteomes**
+- **predicted LGICs** from the application of LiGIoNs on all **UniProt reference proteomes**
 
 # Required software
 *These following software tool versions were used during production and testing:*  
@@ -34,5 +34,8 @@ The output is two files, one with the full results (**.lgic**) and one with the 
 *To specify output filename:*  
 `python PredictLGIC.py -i my_input_filename -o my_output_filename`  
 
-# Recreating the pHMMs
+## Recreating the pHMMs
 In the directory **LGIC_fasta** are 10 multiFASTA files, one per LGIC subfamily. The script **profileMaker.py** uses **CD-HIT**, **Clustal Omega** and **HMMER** to create **LGICslib**, a pHMM library containing 1 pHMM per subfamily.
+
+# Application in reference proteomes
+The archive **proteome_predicted_LGICs.gz** contains the predicted LGICs from the application of LiGIoNs on all UniProt reference proteomes. Each file in the archive corresponds to a single proteome, is named according to the UniProt **Proteome ID** and has 3 columns, the LGIC subfamily name, the score and the protein information. 
