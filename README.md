@@ -4,7 +4,7 @@ LiGIoNs is a profile Hidden Markov Model (pHMM) based method capable of predicti
 *Avgi E. Apostolakou, Katerina C. Nastou, Georgios N. Petichakis, Zoi I. Litou and Vassiliki A. Iconomidou*  
 LiGIoNs: Α Computational Method for the Detection and Classification of Ligand-Gated Ion Channels (In Preparation)
 
-The method is available online at http://bioinformatics.biol.uoa.gr/ligions/.  (soon)
+The method is available online at http://bioinformatics.biol.uoa.gr/ligions/.  
 
 # Contents
 *This repository contains:* 
